@@ -1,0 +1,50 @@
+---
+layout: default
+---
+<article class="post">
+
+    <!--
+  {%- if page.title -%}
+  <header class="post-header">
+    <div class="post-title">{{ page.title | escape }}</div>
+  </header>
+  {%- endif -%}
+
+  <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+-->
+
+  {%- if site.posts.size > 0 -%}
+  <!-- h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2-->
+  <ul class="post-list">
+    {%- for post in site.posts -%}
+    {%- if post.hide == null or post.hide == false -%}
+    <li>
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      
+      <!--
+      <span class="post-meta">{{ post.date | date: date_format }}</span>
+      -->
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          <!-- {{ post.title | escape }} -->
+          {{ post.date | date: date_format }}
+        </a>
+      </h3>
+      {%- if site.show_excerpts -%}
+        {{ post.excerpt }}
+      {%- endif -%}
+
+      {{ post.content }}
+    </li>
+    {%- endif -%}
+    {%- endfor -%}
+  </ul>
+
+
+  {%- endif -%}
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</article>
