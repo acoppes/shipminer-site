@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Update"
-date:   2023-11-11 00:08:30 -0300
+date:   2023-11-12 00:08:30 -0300
 author: Ariel Coppes
 tags:
-  - personal
   - update
+  - devlog
 ---
 
-First iterations on the game concept, testing ideas on different terrains and highlight minerals.
+Smaller fog of war to cover a similar size to terrain grid. 
 
 <div class="post-image">
 <img src="/assets/shipminer-mining-02.gif" width="100%" />
