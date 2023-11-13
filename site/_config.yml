@@ -21,12 +21,11 @@
 title: Ship Miner
 email: contact@arielcoppes.dev
 description: >- # this means to ignore newlines until "baseurl:"
-  Ship Miner
+  Ship Miner Dev Log
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://shipminer.arielcoppes.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: arielsan
-itchio_url: https://arielsan.itch.io/rtsgame
 
 profile_photo: /images/personal_photo.jpg
 
@@ -50,7 +49,7 @@ timezone: America/Montevideo
 feed:
   excerpt_only: true
 
-google_analytics: G-VL02PZQC7L
+google_analytics: G-KGP5QG5ZCJ
 
 collections:
   drafts: 
@@ -71,7 +70,7 @@ defaults:
       path: ""
     values:
       image:
-        path: /images/personal_photo.jpg
+        path: /assets/images/preview.png
         height: 100
         width: 100
       
