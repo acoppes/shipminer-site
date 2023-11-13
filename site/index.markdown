@@ -7,10 +7,14 @@ title: Home
 list_title: Home
 ---
 
+<div class="post-image">
+<img src="/assets/shipminer-suscribe-03.gif" />
+</div>
+
 <!-- TODO: MAIN VIDEO -->
 
 <div class="post-image">
-<img src="/assets/shipminer-mining-01.gif" width="100%" />
+<img src="/assets/shipminer-mining-01.gif" />
 </div>
 
 Ship Miner is a __Work in Progress__ 1-bit Pixelart Space Mining game with Rogue-lite and Combat elements.
