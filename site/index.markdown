@@ -8,7 +8,7 @@ list_title: Home
 ---
 
 <div class="post-image">
-<img src="/assets/shipminer-suscribe-03.gif" />
+<img src="/assets/shipminer-suscribe-01.gif" />
 </div>
 
 <!-- TODO: MAIN VIDEO -->
