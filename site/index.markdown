@@ -19,10 +19,10 @@ list_title: Home
 
 Ship Miner is a __Work in Progress__ 1-bit Pixelart Space Mining game with Rogue-lite and Combat elements.
 
-* Mine minerals
-* Survive attacks
-* Improve your ship
-* Repeat
+* Gather minerals.
+* Survive attacks, gather scraps.
+* Trade minerals for improvements.
+* Travel to new asteroid field.
 
 <!--
 WISHLISTS?

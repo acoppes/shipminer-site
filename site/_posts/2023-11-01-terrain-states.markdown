@@ -11,5 +11,5 @@ tags:
 Different terrain states while mining.
 
 <div class="post-image">
-<img src="/assets/shipminer-mining-01.gif" width="100%" />
+<img src="/assets/shipminer-mining-01.gif" />
 </div>

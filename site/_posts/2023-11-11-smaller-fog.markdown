@@ -11,5 +11,5 @@ tags:
 Smaller fog of war to cover a similar size to terrain grid. 
 
 <div class="post-image">
-<img src="/assets/shipminer-mining-02.gif" width="100%" />
+<img src="/assets/shipminer-mining-02.gif"/>
 </div>
