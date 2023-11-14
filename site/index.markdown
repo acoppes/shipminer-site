@@ -10,7 +10,7 @@ list_title: Home
 ### SITE UNDER CONSTRUCTION
 
 <div class="post-image">
-<img src="/assets/shipminer-suscribe-01.gif" />
+<img src="/assets/shipminer-subscribe-01.gif" />
 </div>
 
 <!-- TODO: MAIN VIDEO -->

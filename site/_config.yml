@@ -27,8 +27,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://shipminer.arielcoppes.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: arielsan
 
-profile_photo: /images/personal_photo.jpg
-
 dev_blog: https://arielcoppes.dev
 show_excerpts: false
 
@@ -70,7 +68,7 @@ defaults:
       path: ""
     values:
       image:
-        path: /assets/images/preview.png
+        path: /assets/shipminer-preview.gif
         height: 100
         width: 100
       
