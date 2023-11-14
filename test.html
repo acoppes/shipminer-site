@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="test.css">
+</head>
+
+<body onload="removeFrameSrc()">
+
+    <script>
+        function removeFrameSrc() {
+            var gameContainer = document.getElementById('frame-game1');
+            gameContainer.src = '';
+        }
+
+        function playGame(playContainerId, gameId) {
+          var gameContainer = document.getElementById(gameId);
+          // gameContainer.classList.remove("hidden");
+
+          var playContainer = document.getElementById(playContainerId);
+          playContainer.classList.add("hidden");
+
+          // gameContainer.setAttribute('src', "https://itch.io/embed-upload/8348149?color=727272"); 
+          gameContainer.src = "https://itch.io/embed-upload/8469151?color=000061";
+          // gameContainer.contentWindow.location.reload();
+
+        }
+    </script>
+
+    <div id="play-game1" class="container" onclick="playGame('play-game1', 'frame-game1')">
+        <img src="playgame.gif" width="512" />
+        <span class="centered play_button">Click to Play</span>
+    </div>
+
+    <div id="frame-container-game1" class="container">
+        <iframe id='frame-game1' frameborder="0" allowfullscreen="false" width="512" height="532"></iframe>
+    </div>
+
+
+        
+
+</body>
+</html>
