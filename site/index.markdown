@@ -7,6 +7,8 @@ title: Home
 list_title: Home
 ---
 
+### SITE UNDER CONSTRUCTION
+
 <div class="post-image">
 <img src="/assets/shipminer-suscribe-01.gif" />
 </div>
