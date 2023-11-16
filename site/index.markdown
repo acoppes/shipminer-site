@@ -29,10 +29,14 @@ The anomaly just appeared in the galaxy and it is eating the Space. Get enough m
 
 # Notes
 
-This is a game in development, the name is not final, and story and mechanics can change a lot.
+This is a game in development, the name is not final, and story and mechanics might change a lot.
+
+<!-- div class="post-image">
+<img src="/assets/shipminer-subscribe-01.gif" />
+</div -->
 
 <div class="post-image">
-<img src="/assets/shipminer-subscribe-01.gif" />
+<img src="/assets/shipminer-message-thankyou.gif" />
 </div>
 
 <!--
