@@ -7,24 +7,33 @@ title: Home
 list_title: Home
 ---
 
-### SITE UNDER CONSTRUCTION
-
-<div class="post-image">
-<img src="/assets/shipminer-subscribe-01.gif" />
-</div>
-
 <!-- TODO: MAIN VIDEO -->
+Ship Miner is a __Work in Progress__ 1-bit Pixelart Space Mining game with Rogue-lite and Combat elements.
 
 <div class="post-image">
 <img src="/assets/shipminer-mining-01.gif" />
 </div>
 
-Ship Miner is a __Work in Progress__ 1-bit Pixelart Space Mining game with Rogue-lite and Combat elements.
 
-* Gather minerals.
-* Survive attacks, gather scraps.
+
+# Story
+
+The anomaly just appeared in the galaxy and it is eating the Space. Get enough minerals to build a device to save humanity before it's too late.
+
+# Game Cycle 
+
+* Mine asteroids for minerals.
+* Survive pirates and other threats.
 * Trade minerals for improvements.
-* Travel to new asteroid field.
+* Travel to new asteroids
+
+# Notes
+
+This is a game in development, the name is not final, and story and mechanics can change a lot.
+
+<div class="post-image">
+<img src="/assets/shipminer-subscribe-01.gif" />
+</div>
 
 <!--
 WISHLISTS?
