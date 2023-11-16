@@ -22,10 +22,12 @@ The anomaly just appeared in the galaxy and it is eating the Space. Get enough m
 
 # Game Cycle 
 
-* Mine asteroids for minerals.
-* Survive pirates and other threats.
-* Trade minerals for improvements.
-* Travel to new asteroids
+* Travel to asteroids
+* Mine
+* Survive threats
+* Trade minerals
+* Improve ship
+* Repeat
 
 # Notes
 
