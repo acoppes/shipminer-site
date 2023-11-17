@@ -47,10 +47,12 @@ This is a game in development, the name is not final, and story and mechanics mi
 <img src="/assets/shipminer-subscribe-01.gif" />
 </div -->
 
-<div class="ml-embedded" data-form="EQ2GGb"></div>
-
 <div class="post-image">
-<img src="/assets/shipminer-message-thankyou.gif" />
+
+<a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', 'EQ2GGb', true)">
+<img src="/assets/shipminer-subscribe-01.gif" />
+</a>
+
 </div>
 
 <!--
