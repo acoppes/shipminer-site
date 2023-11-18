@@ -30,6 +30,8 @@ twitter_username: arielsan
 dev_blog: https://arielcoppes.dev
 show_excerpts: false
 
+rss: true
+
 mastodon:
   - username: arielsan
     instance: mastodon.gamedev.place
