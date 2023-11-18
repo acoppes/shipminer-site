@@ -4,8 +4,7 @@ layout: home
 
 <div class="post-image">
 
-<a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', 'EQ2GGb', true)">
 <img src="/assets/shipminer-message-thankyou.gif" />
-</a>
+<span>The fate of the galaxy is in your hands now!</span>
 
 </div>

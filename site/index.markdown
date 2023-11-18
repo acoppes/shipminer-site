@@ -51,6 +51,7 @@ This is a game in development, the name is not final, and story and mechanics mi
 
 <a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', 'EQ2GGb', true)">
 <img src="/assets/shipminer-subscribe-01.gif" />
+<span>(click to subscribe to the newsletter)</span>
 </a>
 
 </div>
