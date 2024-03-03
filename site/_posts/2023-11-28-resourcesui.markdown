@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Playing with terrain generation for marketing gifs"
+title:  ""
 date:   2023-11-28 00:08:30 -0300
 author: Ariel Coppes
 tags:

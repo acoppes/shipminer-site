@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Update"
+title:  ""
 date:   2023-11-12 00:08:30 -0300
 author: Ariel Coppes
 tags:

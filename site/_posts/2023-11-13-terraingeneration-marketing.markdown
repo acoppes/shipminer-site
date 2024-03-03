@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Playing with terrain generation for marketing gifs"
+title:  ""
 date:   2023-11-13 00:08:30 -0300
 author: Ariel Coppes
 tags:
@@ -19,3 +19,5 @@ This was a previous idea, the ship enters from the left, mine minerals and leave
 <div class="post-image">
 <img src="/assets/shipminer-subscribe-03.gif" />
 </div>
+
+_(Note: there is a typo in that image xD)_
