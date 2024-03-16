@@ -17,14 +17,13 @@ list_title: Home
 </script>
 <!-- End MailerLite Universal -->
 
-<!-- TODO: MAIN VIDEO -->
 Ship Miner is a __Work in Progress__ 1-bit Pixelart Space Mining game with Rogue-lite and Combat elements.
 
 <div class="post-image">
 <img src="/assets/shipminer-mining-01.gif" />
 </div>
 
-
+Follow the [dev log](devlog) in the site itself or by following me on [twitter](https://twitter.com/arielsan) and/or [subscribe to the newsletter](#newsletter).
 
 # Story
 
@@ -39,9 +38,9 @@ The anomaly just appeared in the galaxy and it is eating the Space. Get enough m
 * Improve ship
 * Repeat
 
-# Notes
+# Newsletter
 
-This is a game in development, the name is not final, and story and mechanics might change a lot.
+This is a game in development, the name is not final, and story and mechanics might change a lot but you can subscribe to its newsletter to follow the progress and support me to develop the game.
 
 <!-- div class="post-image">
 <img src="/assets/shipminer-subscribe-01.gif" />
