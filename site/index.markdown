@@ -27,7 +27,7 @@ Follow the [dev log](devlog) in the site itself or by following me on [twitter](
 
 # Story
 
-The anomaly just appeared in the galaxy and it is eating the Space. Get enough minerals to build a device to save humanity before it's too late.
+The anomaly just materialized in the Universe and it is eating all the Space. Get minerals, upgrade, fight it and see if you can build THE DEVICE to save this Universe before it is too late.
 
 # Game Cycle 
 
