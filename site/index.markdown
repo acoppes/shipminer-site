@@ -19,6 +19,13 @@ list_title: Home
 
 Ship Miner is a __Work in Progress__ 1-bit Pixelart Space Mining game with Rogue-lite and Combat elements.
 
+<!-- div class="post-image">
+<video controls>
+  <source src="/assets/shipminer.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video> 
+</div -->
+
 <div class="post-image">
 <img src="/assets/shipminer-mining-01.gif" />
 </div>
