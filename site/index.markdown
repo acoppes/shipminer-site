@@ -32,9 +32,27 @@ Ship Miner is a __Work in Progress__ 1-bit Pixelart Space Mining game with Rogue
 
 Follow the [dev log](devlog) in the site itself or by following me on [twitter](https://twitter.com/arielsan) and/or [subscribe to the newsletter](#newsletter).
 
-# Story
+# About the game
 
-The anomaly just materialized in the Universe and it is eating all the Space. Get minerals, upgrade, fight it and see if you can build THE DEVICE to save this Universe before it is too late.
+Play as a miner, traveling in your ship from asteroid to asteroid to find and collect the most important and valuable minerals. Survive attacks from an unknown and mysterious threat that is putting all existence in danger. Improve your ship and build the ultimate artifact and save the galaxy and all living beings with it. You might die, but another miner will continue your mission.
+
+<div class="post-image">
+<img src="/assets/marketing/steam_description_explore_01.gif" />
+</div>
+
+Travel through different procedural generated asteroids, explore them to find and collect minerals and blueprints (and other secrets too), in order to improve your ship.
+
+<div class="post-image">
+<img src="/assets/marketing/steam_description_survive_01.gif" />
+</div>
+
+You will face many dangers when collecting minerals, from pirate ships to unknown enemies from beyond, use your skills (and your upgrades) in order to survive.
+
+<div class="post-image">
+<img src="/assets/marketing/steam_description_improve_01.gif" />
+</div>
+
+Use your minerals wisely by choosing from a wide variety of improvements to upgrade your ship in order to complete your mission. Find blueprints that can unlock upgrades that last between different runs.
 
 # Game Cycle 
 
