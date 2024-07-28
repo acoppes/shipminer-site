@@ -17,13 +17,6 @@ list_title: Home
 </script>
 <!-- End MailerLite Universal -->
 
-<div class="post-image">
-<a href="https://store.steampowered.com/app/3113690/Ship_Miner/">
-<img src="/assets/description_wishlist.gif" />
-<span>(Click to go to Steam)</span>
-</a>
-</div>
-
 Ship Miner is a __Work in Progress__ 1-bit Pixelart Space Mining game with Rogue-lite and Combat elements.
 
 <!-- div class="post-image">
@@ -38,6 +31,10 @@ Ship Miner is a __Work in Progress__ 1-bit Pixelart Space Mining game with Rogue
 </div>
 
 Follow the [dev log](devlog) in the site itself or by following me on [twitter](https://twitter.com/arielsan) and/or [subscribe to the newsletter](#newsletter).
+
+<div align="center">
+<iframe src="https://store.steampowered.com/widget/3113690/" frameborder="0" width="646" height="190"></iframe>
+</div>
 
 # About the game
 
@@ -70,10 +67,14 @@ Use your minerals wisely by choosing from a wide variety of improvements to upgr
 * Improve ship
 * Repeat
 
-<div align="center">
-<iframe src="https://store.steampowered.com/widget/3113690/" frameborder="0" width="646" height="190"></iframe>
-</div>
+# Support me
 
+<div class="post-image">
+<a href="https://store.steampowered.com/app/3113690/Ship_Miner/">
+<img src="/assets/description_wishlist.gif" />
+<span>(click to wishlist)</span>
+</a>
+</div>
 
 <!-- div class="post-image">
 
