@@ -58,6 +58,15 @@ You will face many dangers when collecting minerals, from pirate ships to unknow
 
 Use your minerals wisely by choosing from a wide variety of improvements to upgrade your ship in order to complete your mission. Find blueprints that can unlock upgrades that last between different runs.
 
+# Announcement Trailer
+
+<div class="post-image">
+  <video controls width="640">
+    <source src="/assets/marketing/announcement_teaser.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 # Game Cycle 
 
 * Travel to asteroids
