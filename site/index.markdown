@@ -33,7 +33,7 @@ Ship Miner is a __Work in Progress__ 1-bit Pixelart Space Mining game with Rogue
 Follow the [dev log](devlog) in the site itself or by following me on [twitter](https://twitter.com/arielsan) and/or [subscribe to the newsletter](#newsletter).
 
 <div align="center">
-<iframe src="https://store.steampowered.com/widget/3113690/" frameborder="0" width="646" height="190"></iframe>
+<iframe src="https://store.steampowered.com/widget/3113690/?utm_source=homepage&utm_campaign=announcement" frameborder="0" width="646" height="190"></iframe>
 </div>
 
 # About the game
@@ -79,7 +79,7 @@ Use your minerals wisely by choosing from a wide variety of improvements to upgr
 # Support me
 
 <div class="post-image">
-<a href="https://store.steampowered.com/app/3113690/Ship_Miner/">
+<a href="https://store.steampowered.com/app/3113690/Ship_Miner/?utm_source=homepage&utm_campaign=customgif">
 <img src="/assets/description_wishlist.gif" />
 <span>(click to wishlist)</span>
 </a>
