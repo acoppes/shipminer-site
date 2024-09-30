@@ -17,47 +17,46 @@ list_title: Home
 </script>
 <!-- End MailerLite Universal -->
 
-Ship Miner is a __Work in Progress__ 1-bit Pixelart Space Mining game with Rogue-lite and Combat elements.
+1-bit Pixel Art twin stick miner game in space. Explore asteroids and collect minerals, survive threats and improve your ship. Face a magnificent danger to save the universe.
 
 <!-- div class="post-image">
 <video controls>
   <source src="/assets/shipminer.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video> 
-</div -->
+</div 
 
 <div class="post-image">
 <img src="/assets/shipminer-mining-01.gif" />
+</div>-->
+
+<!--
+# About the game
+Play as a miner, traveling in your ship from asteroid to asteroid to find and collect the most important and valuable minerals. Survive attacks from an unknown and mysterious threat that is putting all existence in danger. Improve your ship and build the ultimate artifact and save the galaxy and all living beings with it. You might die, but another miner will continue your mission.
+-->
+
+__EXPLORE__ procedural generated asteroids and __COLLECT__ minerals, scraps, blueprints and more.
+
+<div class="post-image">
+<img src="/assets/marketing/steam_description_explore_02.gif" />
 </div>
+
+__SURVIVE__ many dangers, from pirate ships to unknown threats from beyond, use your skills and your upgrades and continue your mission.
+
+<div class="post-image">
+<img src="/assets/marketing/steam_description_survive_02.gif" />
+</div>
+
+__IMPROVE__ your ship by using the collected resources wisely and chose from a wide variety of upgrades like triple mining rays or healing drones.
+
+<div class="post-image">
+<img src="/assets/marketing/steam_description_improve_02.gif" />
+</div>
+
 
 Follow the [dev log](devlog) in the site itself or by following me on [twitter](https://twitter.com/arielsan) and/or [subscribe to the newsletter](#newsletter).
 
-<div align="center">
-<iframe src="https://store.steampowered.com/widget/3113690/?utm_source=homepage&utm_campaign=announcement" frameborder="0" width="646" height="190"></iframe>
-</div>
-
-# About the game
-
-Play as a miner, traveling in your ship from asteroid to asteroid to find and collect the most important and valuable minerals. Survive attacks from an unknown and mysterious threat that is putting all existence in danger. Improve your ship and build the ultimate artifact and save the galaxy and all living beings with it. You might die, but another miner will continue your mission.
-
-<div class="post-image">
-<img src="/assets/marketing/steam_description_explore_01.gif" />
-</div>
-
-Travel through different procedural generated asteroids, explore them to find and collect minerals and blueprints (and other secrets too), in order to improve your ship.
-
-<div class="post-image">
-<img src="/assets/marketing/steam_description_survive_01.gif" />
-</div>
-
-You will face many dangers when collecting minerals, from pirate ships to unknown enemies from beyond, use your skills (and your upgrades) in order to survive.
-
-<div class="post-image">
-<img src="/assets/marketing/steam_description_improve_01.gif" />
-</div>
-
-Use your minerals wisely by choosing from a wide variety of improvements to upgrade your ship in order to complete your mission. Find blueprints that can unlock upgrades that last between different runs.
-
+<!--
 # Announcement Trailer
 
 <div class="post-image">
@@ -66,24 +65,18 @@ Use your minerals wisely by choosing from a wide variety of improvements to upgr
     Your browser does not support the video tag.
   </video>
 </div>
+-->
 
-# Game Cycle 
+<div align="center">
+<iframe src="https://store.steampowered.com/widget/3113690/?utm_source=homepage&utm_campaign=announcement" frameborder="0" width="646" height="190"></iframe>
+</div>
 
-* Travel to asteroids
-* Mine
-* Survive threats
-* Trade minerals
-* Improve ship
-* Repeat
-
-# Support me
-
-<div class="post-image">
+<!-- div class="post-image">
 <a href="https://store.steampowered.com/app/3113690/Ship_Miner/?utm_source=homepage&utm_campaign=customgif">
 <img src="/assets/description_wishlist.gif" />
 <span>(click to wishlist)</span>
 </a>
-</div>
+</div -->
 
 <!-- div class="post-image">
 
