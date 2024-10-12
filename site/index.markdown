@@ -53,8 +53,11 @@ __IMPROVE__ your ship by using the collected resources wisely and chose from a w
 <img src="/assets/marketing/steam_description_improve_02.gif" />
 </div>
 
+<div>
+  Follow the <a href="devlog">dev log</a> in the site itself or by Following me on <a href="https://twitter.com/arielsan">Twitter</a> and/or <strong><a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', 'EQ2GGb', true)">Subscribe to the Newsletter</a></strong>.
+</div>
 
-Follow the [dev log](devlog) in the site itself or by following me on [twitter](https://twitter.com/arielsan) and/or [subscribe to the newsletter](#newsletter).
+<br/>
 
 <!--
 # Announcement Trailer
@@ -76,6 +79,9 @@ Follow the [dev log](devlog) in the site itself or by following me on [twitter](
 <img src="/assets/description_wishlist.gif" />
 <span>(click to wishlist)</span>
 </a>
+
+<img src="/assets/shipminer-subscribe-01.gif" />
+
 </div -->
 
 <!-- div class="post-image">
@@ -84,9 +90,6 @@ Follow the [dev log](devlog) in the site itself or by following me on [twitter](
 
 This is a game in development, the name is not final, and story and mechanics might change a lot but you can subscribe to its newsletter to follow the progress and support me to develop the game.
 
-<a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', 'EQ2GGb', true)">
-<img src="/assets/shipminer-subscribe-01.gif" />
-<span>(click to subscribe to the newsletter)</span>
-</a>
+
 
 </div-->
