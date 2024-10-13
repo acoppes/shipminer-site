@@ -17,6 +17,10 @@ list_title: Home
 </script>
 <!-- End MailerLite Universal -->
 
+<div align="center">
+<iframe src="https://store.steampowered.com/widget/3113690/?utm_source=homepage&utm_campaign=announcement" frameborder="0" width="646" height="190"></iframe>
+</div>
+
 1-bit Pixel Art twin stick miner game in space. Explore asteroids and collect minerals, survive threats and improve your ship. Face a magnificent danger to save the universe.
 
 <!-- div class="post-image">
@@ -54,10 +58,8 @@ __IMPROVE__ your ship by using the collected resources wisely and chose from a w
 </div>
 
 <div>
-  Follow the <a href="devlog">dev log</a> in the site itself or by Following me on <a href="https://twitter.com/arielsan">Twitter</a> and/or <strong><a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', 'EQ2GGb', true)">Subscribe to the Newsletter</a></strong>.
+  Follow the <a href="devlog">dev log</a> in the site itself or by Following me on <a href="https://twitter.com/arielsan">Twitter</a> and/or subscribing to the newsletter in the following form.
 </div>
-
-<br/>
 
 <!--
 # Announcement Trailer
@@ -70,26 +72,4 @@ __IMPROVE__ your ship by using the collected resources wisely and chose from a w
 </div>
 -->
 
-<div align="center">
-<iframe src="https://store.steampowered.com/widget/3113690/?utm_source=homepage&utm_campaign=announcement" frameborder="0" width="646" height="190"></iframe>
-</div>
-
-<!-- div class="post-image">
-<a href="https://store.steampowered.com/app/3113690/Ship_Miner/?utm_source=homepage&utm_campaign=customgif">
-<img src="/assets/description_wishlist.gif" />
-<span>(click to wishlist)</span>
-</a>
-
-<img src="/assets/shipminer-subscribe-01.gif" />
-
-</div -->
-
-<!-- div class="post-image">
-
-# Newsletter
-
-This is a game in development, the name is not final, and story and mechanics might change a lot but you can subscribe to its newsletter to follow the progress and support me to develop the game.
-
-
-
-</div-->
+<div class="ml-embedded" data-form="EQ2GGb"></div>
