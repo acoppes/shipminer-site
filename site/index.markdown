@@ -61,6 +61,8 @@ __IMPROVE__ your ship by using the collected resources wisely and chose from a w
   Follow the <a href="devlog">dev log</a> in the site itself or by Following me on <a href="https://twitter.com/arielsan">Twitter</a> and/or subscribing to the newsletter in the following form.
 </div>
 
+<br/>
+
 <!--
 # Announcement Trailer
 
