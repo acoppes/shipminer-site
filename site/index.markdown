@@ -57,12 +57,14 @@ __IMPROVE__ your ship by using the collected resources wisely and chose from a w
 <img src="/assets/marketing/steam_description_improve_02.gif" />
 </div>
 
+You can Wishlist the game on Steam and get notified when the game is Released.
+
 <div align="center">
 <iframe src="https://store.steampowered.com/widget/3113690/?utm_source=homepage&utm_campaign=announcement" frameborder="0" width="646" height="190"></iframe>
 </div>
 
 <div>
-  Follow the <a href="devlog">dev log</a> in the site itself or by Following me on <a href="https://twitter.com/arielsan">Twitter</a> and/or subscribing to the newsletter in the following form.
+  Follow the <a href="devlog">dev log</a> in the site itself or by following me on <a href="https://twitter.com/arielsan">Twitter</a> and/or subscribing to the newsletter in the following form.
 </div>
 
 <br/>
