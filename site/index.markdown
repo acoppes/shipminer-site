@@ -17,8 +17,8 @@ list_title: Home
 </script>
 <!-- End MailerLite Universal -->
 
-<div align="center">
-<iframe src="https://store.steampowered.com/widget/3113690/?utm_source=homepage&utm_campaign=announcement" frameborder="0" width="646" height="190"></iframe>
+<div class="post-image">
+<img src="/assets/marketing/header.png" />
 </div>
 
 1-bit Pixel Art twin stick miner game in space. Explore asteroids and collect minerals, survive threats and improve your ship. Face a magnificent danger to save the universe.
@@ -55,6 +55,10 @@ __IMPROVE__ your ship by using the collected resources wisely and chose from a w
 
 <div class="post-image">
 <img src="/assets/marketing/steam_description_improve_02.gif" />
+</div>
+
+<div align="center">
+<iframe src="https://store.steampowered.com/widget/3113690/?utm_source=homepage&utm_campaign=announcement" frameborder="0" width="646" height="190"></iframe>
 </div>
 
 <div>
