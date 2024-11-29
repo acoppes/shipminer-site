@@ -80,4 +80,14 @@ You can Wishlist the game on Steam and get notified when the game is Released.
 </div>
 -->
 
+<div class="post-image">
+  <h1>AWARDS</h1>
+<a href="https://cavi.uy/conavi/">
+<img src="/assets/uruguayan-game-awards-innovation-badge-small.png" />
+</a>
+</div>
+
 <div class="ml-embedded" data-form="EQ2GGb"></div>
+
+
+
