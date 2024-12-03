@@ -45,16 +45,16 @@ __EXPLORE__ procedural generated asteroids and __COLLECT__ minerals, scraps, blu
 <img src="/assets/marketing/steam_description_explore_02.gif" />
 </div>
 
-__SURVIVE__ many dangers, from pirate ships to unknown threats from beyond, use your skills and your upgrades and continue your mission.
-
-<div class="post-image">
-<img src="/assets/marketing/steam_description_survive_02.gif" />
-</div>
-
 __IMPROVE__ your ship by using the collected resources wisely and chose from a wide variety of upgrades like triple mining rays or healing drones.
 
 <div class="post-image">
 <img src="/assets/marketing/steam_description_improve_02.gif" />
+</div>
+
+__SURVIVE__ many dangers, from pirate ships to unknown threats from beyond, use your skills and your upgrades and continue your mission.
+
+<div class="post-image">
+<img src="/assets/marketing/steam_description_survive_02.gif" />
 </div>
 
 You can Wishlist the game on Steam and get notified when the game is Released.
@@ -84,6 +84,7 @@ You can Wishlist the game on Steam and get notified when the game is Released.
   <h1>AWARDS</h1>
 <a href="https://cavi.uy/conavi/">
 <img src="/assets/uruguayan-game-awards-innovation-badge-small.png" />
+<img src="/assets/uruguay-game-awards-indie-rising-star-2024-finalist.png" />
 </a>
 </div>
 
