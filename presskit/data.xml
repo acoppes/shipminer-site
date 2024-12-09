@@ -6,37 +6,43 @@
   <website>https://pixelcoregames.com</website>
   <press-contact>
     <!-- Mail address -->
+    contact@pixelcoregames.com
   </press-contact>
 
-  <!-- Google analytics ID: -->
+  <!-- Google analytics ID: 
   <analytics></analytics>
+-->
 
-  <phone></phone>
+  <phone>+59899852501</phone>
   <address>
     <line>
+
       <!-- Street -->
     </line>
     <line>
+      Canelones
       <!-- City -->
     </line>
     <line>
+      Uruguay
       <!-- Country -->
     </line>
   </address>
 
   <socials>
     <social>
-      <name></name>
+      <name>Twitter</name>
       <link>
-        <!-- URL starting with http or https -->
+      https://twitter.com/pixelcoregames
       </link>
     </social>
   </socials>
 
+
   <description>Pixel Core Games is a solodev Uruguayan Studio creating simple games with deep experience.</description>
 
   <!-- Choose between a single block: -->
-  <history></history>
+  <history>Pixel Core Games was founded on July 2024 by Ariel Coppes, a solo dev, to make games with a simple core but with depth in experience and content.</history>
 
   <!-- Or multiple blocks: -->
   <!--
@@ -54,55 +60,38 @@
 
       <!-- Pick one: -->
       <youtube>
+      lfrwLYfYRKc
         <!-- Video ID only, not the full URL -->
       </youtube>
-      <vimeo>
-        <!-- Video ID only, not the full URL -->
-      </vimeo>
+      
     </trailer>
   </trailers>
 
-  <awards>
-    <award>
-      <description></description>
-      <info></info>
-    </award>
-  </awards>
-
-  <quotes>
-    <quote>
-      <description></description>
-      <name></name>
-      <website></website>
-      <link></link>
-    </quote>
-  </quotes>
-
   <additionals>
     <additional>
-      <title></title>
-      <description></description>
-      <link></link>
+      <title>Uruguay VideoGames</title>
+      <description>A website dedicated to show Uruguayan Videogames.</description>
+      <link>https://uruguayvideogames.com/company/pixel-core-games/</link>
     </additional>
   </additionals>
 
   <credits>
     <credit>
-      <person></person>
-      <role></role>
+      <person>Ariel Coppes</person>
+      <role>Solo Dev</role>
 
       <!-- Optional: -->
-      <website></website>
+      <website>https://arielcoppes.dev</website>
     </credit>
   </credits>
 
   <contacts>
     <contact>
-      <name></name>
+      <name>Contact</name>
 
       <!-- Pick one: -->
-      <mail></mail>
-      <link></link>
+      <mail>contact@pixelcoregames.com</mail>
     </contact>
   </contacts>
+
 </company>
