@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<product>
+  <title>Ship Miner</title>
+
+
+  <release-dates>
+    <release-date>TBA</release-date>
+  </release-dates>
+
+  <website>https://shipminer.arielcoppes.dev</website>
+
+  <!-- Link to request press copy: -->
+  <press-copy-request></press-copy-request>
+
+  <platforms>
+    <platform>
+      <name>Steam</name>
+      <link>https://store.steampowered.com/app/3113690/Ship_Miner</link>
+    </platform>
+  </platforms>
+
+  <prices>
+    <price>
+      <currency>USD</currency>
+      <value>9.99</value>
+    </price>
+  </prices>
+
+  <description>1-bit Pixel Art twin stick miner game in space. Explore asteroids and collect minerals, survive threats and improve your ship. Face a magnificent danger and save the galaxy.</description>
+
+  <!-- Choose between a single block: -->
+  <history>Play as a miner, traveling in your ship from asteroid to asteroid to find and collect the most important and valuable minerals. Survive attacks from an unknown and mysterious threat that is putting all existence in danger. Improve your ship and build the ultimate artifact to save the galaxy and all living beings with it. You might die but another miner will continue your mission.</history>
+
+  <!-- Or multiple blocks: -->
+  <!--
+  <histories>
+    <history>
+      <header></header>
+      <text></text>
+    </history>
+  </histories>
+  -->
+
+  <features>
+    <feature>1-bit Pixel Art Retro Style</feature>
+    <feature>Modern twin stick gamepad controls</feature>
+    <feature>Procedural Generation</feature>
+  </features>
+
+  <trailers>
+    <trailer>
+      <name></name>
+
+      <!-- Pick one: -->
+      <youtube>
+      lfrwLYfYRKc
+        <!-- Video ID only, not the full URL -->
+      </youtube>
+      
+    </trailer>
+  </trailers>
+
+  <!-- You can set your widgets here (optional): -->
+  <widgets>
+    <steam>
+      <!-- Steam ID -->
+      <!-- e.g. 424242 -->
+      3113690
+    </steam>
+  </widgets>
+
+  <awards>
+    <award>
+      <description>Winner Innovation</description>
+      <info>Uruguayan Games Awards 2024</info>
+    </award>
+
+    <award>
+      <description>Finalist Indie Rising Star</description>
+      <info>Uruguayan Games Awards 2024</info>
+    </award>
+  </awards>
+
+  <credits>
+    <credit>
+      <person>Ariel Coppes</person>
+      <role>Main Developer</role>
+
+      <!-- Optional: -->
+      <website>https://arielcoppes.dev</website>
+    </credit>
+    <credit>
+      <person>Esteban Dal Monte</person>
+      <role>Music</role>
+      <website>https://soundcloud.com/dalmontemusic</website>
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name>Ariel Coppes</name>
+
+      <!-- Pick one: -->
+      <mail>ariel@arielcoppes.dev</mail>
+      <link></link>
+    </contact>
+  </contacts>
+</product>
