@@ -39,19 +39,19 @@ list_title: Home
 Play as a miner, traveling in your ship from asteroid to asteroid to find and collect the most important and valuable minerals. Survive attacks from an unknown and mysterious threat that is putting all existence in danger. Improve your ship and build the ultimate artifact and save the galaxy and all living beings with it. You might die, but another miner will continue your mission.
 -->
 
-__EXPLORE__ procedural generated asteroids and __COLLECT__ minerals, scraps, blueprints and more.
+__EXPLORE AND MINE__ procedural generated asteroids to collect minerals, scraps, blueprints and more.
 
 <div class="post-image">
 <img src="/assets/marketing/steam_description_explore_02.gif" />
 </div>
 
-__IMPROVE__ your ship by using the collected resources wisely and chose from a wide variety of upgrades like triple mining rays or healing drones.
+__IMPROVE__ your ship using collected resources by choosing from a wide variety of upgrades like triple mining rays or healing drones.
 
 <div class="post-image">
 <img src="/assets/marketing/steam_description_improve_02.gif" />
 </div>
 
-__SURVIVE__ many dangers, from pirate ships to unknown threats from beyond, use your skills and your upgrades and continue your mission.
+__SURVIVE__ many dangers, from pirate ships to unknown threats from beyond The Anomaly, use your skills and upgrades to complete The Mission.
 
 <div class="post-image">
 <img src="/assets/marketing/steam_description_survive_02.gif" />
