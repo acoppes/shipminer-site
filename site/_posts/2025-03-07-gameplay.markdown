@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Updated Gameplay Video"
+date:   2025-03-07 00:08:00 -0300
+author: Ariel Coppes
+tags:
+  - devlog
+  - marketing
+---
+
+Updated gameplay video.
+
+<div class="post-image">
+<video controls>
+  <source src="/assets/videos/gameplay_march_2025_02.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video> 
+</div>
