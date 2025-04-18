@@ -4,6 +4,20 @@ layout: home
 
 Release notes history
 
+0.5.0 - Replay & Progress value
+
+* NEW: now asteroid shape is being generated with procedural generation and then the minerals are added over that shape.
+  - Used seed and asteroid size debug in pause menu to regenerate in case there are some bugs.
+* Added: buildable Travel Portal to allow the player to travel to next asteroid.
+  - It is an initial exploration of "starting the asteroid in a better state", but the solution will probably change.
+* Changed: terrain fill to try to reflect its current resistance. 
+* Fixed: now playlist continues with next song if game is paused.
+* Fixed: Don't show multiple artifact in the terrain, first one found becomes the main one (the others are deleted).
+* Changed: Mineral core spots now show different states based on their current resistance.
+* Fixed: some elements were being spawned at 0,0 on start and overriding themselves sometimes and/or being auto destroyed if no terrain there.
+* Chest generation is removed, it is cool but not changing gameplay yet so I prefer to have it off for now.
+* Fixed: advanced scanners stat.
+
 0.4.2 - Content & Experience Update 2
 
 * Added mineral core spots where you can get multiple of the same mineral.
