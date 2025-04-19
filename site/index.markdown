@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Ship Miner
+title: Home
 list_title: Home
 ---
 
@@ -65,6 +65,10 @@ You can Wishlist the game on Steam and get notified when the game is Released.
 
 <div align="center">
 <iframe src="https://store.steampowered.com/widget/3113690/?utm_source=homepage&utm_campaign=announcement" frameborder="0" width="646" height="190"></iframe>
+</div>
+
+<div class="post-image">
+<img src="/images/join-discord-image.png" />
 </div>
 
 <div>

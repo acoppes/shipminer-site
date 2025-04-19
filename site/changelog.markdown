@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Changelog
 ---
 
 Release notes history
