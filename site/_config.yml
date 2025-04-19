@@ -31,6 +31,7 @@ dev_blog: https://arielcoppes.dev
 show_excerpts: false
 
 rss: true
+discord: true
 
 mastodon:
   - username: arielsan
