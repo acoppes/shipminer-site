@@ -5,6 +5,19 @@ title: Changelog
 
 Release notes history
 
+0.5.2 - Replay & Progress value (content update)
+
+* Fixed: try again button regenerates level now.
+* Changed: Reduced portal cost to not require 1 anomaly core.
+* Changed: Disabled ship collision damage for now.
+* Internal: Minerals generation is integrated as new step in new procedural generator. 
+* Changed: Disabled mineral core spots generation for now.
+* Changed: Healing drone now heals the ship for some amount and autodestroys itself after that, doesn't consume drone slots.
+* Changed: Hud for ship hitpoints now show some bars instead of a number and % to see if that helps a bit more understanding the current hp, did some damage rebalance too.
+* Changed: Scout drones now explore the asteroid and reveal minerals.
+  - They don't consume minerals anymore.
+  - They die after some time.
+
 0.5.0 - Replay & Progress value
 
 * NEW: now asteroid shape is being generated with procedural generation and then the minerals are added over that shape.
