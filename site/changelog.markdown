@@ -5,6 +5,22 @@ title: Changelog
 
 Release notes history
 
+0.5.4 - More stuff to do
+
+This is a work in progress change, but wanted to upload something after so much time.
+
+* Added: Enemy miners spawned from anomalies.
+* Changed: Now anomalies don't fire random attacks.
+* Changed: Increased a bit some mineral shape sizes in order to try to help a bit more to identify them visually.
+* Changed: Drones and enemy miner spawn scrap mineral directly on death instead of spawning debris.
+* Changed: Proc gen now tries to target different densities for each main mineral type.
+* Changed: Space portal to travel to other asteroids is spawned with level generation.
+* Added: new song named Shards by Unf0ld.
+
+0.5.3 - Stability (bug fixing)
+
+* Fixed lots of small internal bugs that might be making the game a bit unstable after playing some time.
+
 0.5.2 - Replay & Progress value (content update)
 
 * Fixed: try again button regenerates level now.
