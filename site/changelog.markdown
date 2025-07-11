@@ -5,6 +5,58 @@ title: Changelog
 
 Release notes history
 
+0.6.4 - Demo WIP
+
+* Added: toggle to invert colors to start showing the game allows color changing.
+* Added: button to randomize palette (not gonna be like this in the final game) and reset to default.
+* Added: confirmation dialog to delete stats.
+* Added: confirmation dialog to quit game.
+* Added: wishlist call to action in multiple places, for now just the link, in the future will be with steam overlay.
+* Added: play game sub menu, to show multiple game options like continue (doesn't work yet), new, sandbox, custom.
+* Added: some Not Available in Demo popups for Custom mode and Sandbox mode (not implemented yet).
+* Changed: space portal is never spawned close to the ship now.
+* Changed: disabled arrow keys tabs navigation in the pause menu since it had some issues, added TAB as button now, and will add a way to move the cursor to the tab itself and change it from there with arrow keys. 
+
+0.6.3
+
+* Changed: allied miner drones collect minerals directly to the player.
+* Changed: reduced a bit ship and drone hit points to make it a bit more dangerous to take damage. 
+* Changed: internal changes to support palette swap in the future and also different resolutions.
+* Changed: game should adapt better to different resolutions now, and more pixel perfect.
+* Changed: terrain is more resistant now, quick test to see how to make the void ray and ray upgrade more important and to also not be able to complete the game in 3 mins.
+* Added: can change the game scale in the options ui.
+* Added: small extra vision where the ship starts to show a bit more of the surroundings.
+* Fixed: enemy outside screen indicators are now always in the screen borders.
+* Fixed: procgen sometimes placed the ship too close to the artifact and made it outside the terrain or even not spawned.
+
+0.6.2
+
+* Added: player stats in main menu with different data like how many runs, time played, asteroids visited, etc.
+* Added: gamepad right stick can navigate ui now.
+* Changed: stars have multiple parallax layers, this is a test, not sure about it yet.
+* Changed: repair drones try to move better to repair targets.
+
+0.6.1
+
+* Changed: Inverted trade station ui to show first what you want and then the cost.
+* Fixed?: Added extra checks to try to avoid bug happening when drones attach minerals to bring to ship or anomaly.
+
+0.6.0 - Space Stations
+
+The objective is to get test a bit how it feels having to explore to discover useful buildings and also how it feels to have to go back and forth, and not having all the actions in the ship.
+
+* Added: Factory Space Station, spawned somewhere around the asteroid, removed drones from ship's tech menu. Build a drone takes some time now.
+* Added: Trader Space Station spawned somewhere in around the asteroid, allows you to trade minerals (for now).
+* Added: Friendly Miner Drone.
+* Changed: Removed try again button which wasn't allowing to try again same level, it was just restarting everything, changed the continue to main menu to be explicit.
+* Changed: Now drones have less hp and are targetable by anomaly attacks.
+* Changed: Healing drones now heal like before, consume minerals while doing that. 
+* Changed: All Space Stations have a lot of hp but can be destroyed and drop lots of debris. Repair drones can fix them.
+* Changed: Removed iron cost from all tech installs.
+* Changed: Enemy miners visuals are a bit more different than friendly miners now.
+* Fixed: Anomaly attacks now consider closest target.
+* Changed: Configuring an internal crash report tool to check for errors. 
+
 0.5.4 - More stuff to do
 
 This is a work in progress change, but wanted to upload something after so much time.
