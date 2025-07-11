@@ -68,7 +68,10 @@ You can Wishlist the game on Steam and get notified when the game is Released.
 </div>
 
 <div class="post-image">
-<img src="/images/join-discord-image.png" />
+<a href="https://discord.com/invite/h8pBSNkzXd">
+<img src="/images/Discord-Logo-Blurple.png" width="50%" />
+<span>Click to join our Discord server</span>
+</a>
 </div>
 
 <div>
