@@ -58,7 +58,7 @@ __SURVIVE__ many dangers, from pirate ships to unknown threats from beyond The A
 </div>
 
 <div class="post-image">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lfrwLYfYRKc?si=7swelR6qciOJlBN2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-TovoWd7ou0?si=vqihGODUSFTCNVp6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 You can Wishlist the game on Steam and get notified when the game is Released.
