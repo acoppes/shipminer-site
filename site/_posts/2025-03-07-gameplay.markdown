@@ -11,7 +11,7 @@ tags:
 Updated gameplay video.
 
 <div class="post-image">
-<video controls>
+<video controls width="100%">
   <source src="/assets/videos/gameplay_march_2025_02.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video> 
