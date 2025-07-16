@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Ship Miner has a join Playtest button now!"
+date:   2025-07-16 00:08:00 -0300
+author: Ariel Coppes
+tags:
+  - devlog
+  - marketing
+---
+
+Hi Everyone!
+
+I am working towards having a public Steam Demo (and maybe itchio too) in the next couple of months. In order to achieve that, I need to polish and define more stuff, and I need help from players in doing that.
+
+I started a Steam Playtest at [https://store.steampowered.com/app/3113690/Ship_Miner/](https://store.steampowered.com/app/3113690/Ship_Miner/?utm_source=homepage&utm_campaign=playtest) If you want to be part of it you can join through the steam button that looks like this:
+
+<div class="post-image">
+<a href="https://store.steampowered.com/app/3113690/Ship_Miner/?utm_source=homepage&utm_campaign=playtest">
+<img src="/assets/steam_playtest_button.png" />
+</a>
+</div>
+
+I will add more and more testers overtime. If you request access and get the chance to be part of this Playtest, please also [join Discord](https://discord.gg/h8pBSNkzXd) and/or fill the Feedback Form from within the game, your opinion means a lot, and will help me making the best possible game I can. 
+
+By the way, if you join the Discord and write to me I could also give you a Playtest key directly to be sure you have access to the game.
