@@ -5,6 +5,27 @@ title: Changelog
 
 Release notes history
 
+0.6.7 
+
+* Added: exit dialog when quitting the game.
+* Added: ui navigation and buttons sound effects (wip)
+* Changed: a lot of new sound effects.
+* Changed: can press esc/back to escape from upgrades scroll in outcome window now, that window needs some work for sure but at least the normal esc reaction works now.
+
+0.6.6 - Demo WIP
+
+* Added: Icons for steam and discord links.
+* Changed: Show outcome window with game stats when quitting.
+
+0.6.5 - Demo WIP
+
+* Added: more tech placeholder to give idea of other tech the game is going to have but not available in demo. 
+* Changed: travel station can't be killed by anomalies now.
+* Changed: use d3d11 by default in windows instead of d3d12 to try to solve some graphic device issues.
+* Changed: show outcome window after pressing keep playing the game and then decide to leave.
+* Fixed: ship hp ui not showing ship at max hp after drone repair.
+* Fixed: music loops again after defeating the game and select keep playing.
+
 0.6.4 - Demo WIP
 
 * Added: toggle to invert colors to start showing the game allows color changing.
