@@ -5,6 +5,15 @@ title: Changelog
 
 Release notes history
 
+0.6.8
+
+* Changed: removed trading station for now, and reduced tech install costs.
+* Changed: levels have more empty space around asteroids now to make small levels more enjoyable by reducing the confinement feeling.
+* Changed: Vsync is on by default now, later I will add more graphics options.
+* Fixed: unstable mining ship damage reduced to just 0.1hp (it was doing 2hp but was a bug) only if inside some close distance, otherwise it just does the pushback.
+* Fixed: dpad navigation inconsistencies on Steam Deck.
+* Fixed: control instructions now visually cover the game.
+
 0.6.7 
 
 * Added: exit dialog when quitting the game.
