@@ -99,7 +99,12 @@ You can Wishlist the game on Steam and get notified when the game is Released.
 </a>
 </div>
 
+<div class="post-image">
+  <h1>NEWSLETTER</h1>
+</div>
+
 <div class="ml-embedded" data-form="EQ2GGb"></div>
+
 
 
 
