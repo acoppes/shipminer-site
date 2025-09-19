@@ -5,6 +5,87 @@ title: Changelog
 
 Release notes history
 
+0.6.16
+
+* Added: Analytics and Crashes Opt-in popup on main menu (only once)
+* Added: Analytics and Crashes Opt-in toggle in options menu (disabled by default)
+* Fixed: Added more delay between open/close tech and pause menu to see if the xbox controller issue is solved.
+* Fixed: Main menu press any key is any key now.
+* Fixed: Instructions now says press submit to continue.
+* Fixed: Feedback on UI when not enough resources wasn't working.
+* Fixed: Anomaly had extra difficulty after adjusting projectile spawn position, reduced projectile speed and spawn position a bit and added some vfx to show incoming attack.
+* Changed: Cheats are now disabled by default (can be activated with -cheats command line).
+* Changed: Reduced a bit chance of blueprints per level.
+
+0.6.15
+
+* Changed: Increased chance of getting blueprints but also limited to 3 to 4 per asteroid.
+* Changed: Don't show more blueprints after unlocking all tech.
+* Changed: Tech menu navigability with left/right buttons.
+* Changed: New icons for Iron and Scrap minerals.
+* Fixed: Enemy attacks were being rendered over the fog.
+
+0.6.14 - DEMO WIP
+
+* Added: Confirmation when starting new game if there are run that can be continued.
+* Changed: Activated Steam Cloud Save.
+* Changed: Separated tech menu (select button) from game pause (start button).
+* Changed: Show LB/RB or A/D for tab navigation depending the current input.
+* Changed: Anomalies attacks don't hit each other, so now there are more bolts traveling to the player.
+* Fixed: Sometimes basic minerals were pushed far away instead of picking them.
+* Fixed: special case where music playlist failed to set, it was failing when trying to play next.
+* Fixed: Visual issue with game mode selection.
+
+0.6.13
+
+* Added: New Tech Tremble Device (or how I call it: ball of destruction).
+* Added: Gamepad rumble toggle in options menu.
+* Added: Gamepad rumble on picking minerals. Tested rumble on mining but didn't like it yet.
+* Added: Started Steamworks integration (for now just open wishlist link in steam itself).
+* Changed: Now scrap can be seen when destroying debris with the ship, added a small collect delay to both scrap and iron.
+* Changed: Adjusted a bit scrap and iron spawn and pickup to make it more satisfactory. 
+* Changed: Now options is menu is a separated popup to start adding more things to configure.
+* Changed: Added a bit of deadzone for both sticks since some old gamepads are a bit more sensible and ship was showing the ray all the time (might be an option in the future)
+* Fixed: Forever gamepad rumble if game paused during a rumble. There are still some edge cases with rumble in some devices that I am trying to fix but at least the obvious one was fixed. 
+
+0.6.12
+
+* Added: New Tech Dkeeper available to unlock in tech menu.
+* Added: new upgrade to improve ray distance.
+* Added: mineral names in instructions popup as a temporary solution to name minerals.
+* Changed: selected palette is saved now so it is the same after restarting the game.
+* Changed: hud minerals order, now scrap is the second mineral in the ui.
+* Changed: removed select destination popup for now, level is generated from game mode parameters.
+* Changed: adjusted initial vision around ship and slowed down fade out.
+* Changed: notification is now incoming anomaly not warning: incoming enemy, don't want to say anything at first of being an enemy.
+* Changed: company logo splash now reacts to selected palette.
+* Removed: experienced miner upgrade which wasn't working fine and wasn't clear (gonna re add it as a tech maybe in the future). 
+
+0.6.11 
+
+* Added: new placeholder game mode selection after pressing new game.
+* Added: main menu has access to some options now.
+* Changed: enemy miners attract and collect basic minerals (iron and scrap).
+* Changed: ship is vulnerable again after pressing keep playing.
+* Changed: more sound effect changes.
+* Fixed: fix to cover the screen borders in some resolutions, I hope this time works xD. 
+* Fixed: savegame bug when started new game and game was force closed after that (without leaving with save and leave).
+* Fixed: now ui sound effects volume is affected by sfx slider too.
+* Fixed: special case of trying to travel (and save the game) after completing the game. For now the game will allow that but in the future that will change. 
+
+0.6.10
+
+* Changed: reduced a bit the extra empty size for asteroids.
+* Fixed: blueprint tech unlock after loading savegame.
+
+0.6.9
+
+* Added: first version of save game and continue, for now just keeping the ship progress only (upgrades, tech, minerals) but not the asteroid.
+* Changed: improved explosions performance when spawning lots of basic mineral.
+* Changed: added more window open/close animations.
+* Fixed: tech panel was failing when all possible tech was found.
+* Fixed: installing again installed tech was consuming minerals again.
+
 0.6.8
 
 * Changed: removed trading station for now, and reduced tech install costs.
