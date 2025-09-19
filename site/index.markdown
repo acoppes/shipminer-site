@@ -39,6 +39,14 @@ list_title: Home
 Play as a miner, traveling in your ship from asteroid to asteroid to find and collect the most important and valuable minerals. Survive attacks from an unknown and mysterious threat that is putting all existence in danger. Improve your ship and build the ultimate artifact and save the galaxy and all living beings with it. You might die, but another miner will continue your mission.
 -->
 
+<div class="post-image">
+<video controls width="100%">
+  <source src="/assets/videos/shipminer-demo-announcement-rc1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video> 
+<span>PLAY THE DEMO NOW!</span>
+</div>
+
 __EXPLORE AND MINE__ procedural generated asteroids to collect minerals, scraps, blueprints and more.
 
 <div class="post-image">
@@ -57,9 +65,9 @@ __SURVIVE__ many dangers, from pirate ships to unknown threats from beyond The A
 <img src="/assets/marketing/steam_description_survive_02.gif" />
 </div>
 
-<div class="post-image">
+<!--div class="post-image">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-TovoWd7ou0?si=vqihGODUSFTCNVp6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+</div-->
 
 You can Wishlist the game on Steam and get notified when the game is Released.
 
