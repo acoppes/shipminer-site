@@ -8,14 +8,24 @@ list_title: screenshots
 ---
 
 <div class="post-image">
-    <a href="/assets/images/screenshot-01.png" target="_blank">
-        <img src="/assets/images/screenshot-01.png"  />
+    <a href="/assets/screenshots/screenshot_01.png" target="_blank">
+        <img src="/assets/screenshots/screenshot_01.png"  />
     </a>
-</div>
 
-<div class="post-image">
-    <a href="/assets/marketing/screenshot_1920x1080_2024-07-09_19-40-38.png" target="_blank">
-        <img src="/assets/marketing/screenshot_1920x1080_2024-07-09_19-40-38.png"  />
+    <a href="/assets/screenshots/screenshot_02.png" target="_blank">
+        <img src="/assets/screenshots/screenshot_02.png"  />
+    </a>
+
+    <a href="/assets/screenshots/screenshot_03.png" target="_blank">
+        <img src="/assets/screenshots/screenshot_03.png"  />
+    </a>
+
+    <a href="/assets/screenshots/screenshot_04.png" target="_blank">
+        <img src="/assets/screenshots/screenshot_04.png"  />
+    </a>
+
+    <a href="/assets/screenshots/screenshot_05.png" target="_blank">
+        <img src="/assets/screenshots/screenshot_05.png"  />
     </a>
 </div>
 
