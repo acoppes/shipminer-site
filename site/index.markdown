@@ -40,7 +40,7 @@ Play as a miner, traveling in your ship from asteroid to asteroid to find and co
 -->
 
 <div class="post-image">
-<video controls width="100%">
+<video controls width="100%" autoplay="autoplay" muted="muted">
   <source src="/assets/videos/shipminer-demo-announcement-rc1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video> 
