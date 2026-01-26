@@ -44,7 +44,7 @@ Play as a miner, traveling in your ship from asteroid to asteroid to find and co
   <source src="/assets/videos/shipminer-demo-announcement-rc1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video> 
-<span>PLAY THE DEMO NOW!</span>
+<span><a href="https://store.steampowered.com/app/3113690/Ship_Miner?utm_source=homepage&utm_campaign=announcement">PLAY THE DEMO NOW!</a></span>
 </div>
 
 __EXPLORE AND MINE__ procedural generated asteroids to collect minerals, scraps, blueprints and more.
