@@ -5,7 +5,66 @@ title: Changelog
 
 Release notes history
 
-0.6.16
+0.7.6
+
+* Added: now some asteroids can be inverted which are more like caves in some way giving a different exploration.
+* Changed: improved performance for some ui.
+* Changed: changed visuals for boundaries to see if it feels better and/or make it more clear with not being part of the asteroid.
+* Changed: improved general performance of the game.
+* Changed: now artifact pieces should be autodestroyed once the artifact starts building.
+
+0.7.5 - Small Adjustments
+
+* Changed: anomalies are auto revealed when close to the ship.
+* Changed: improved tech menu selected tab and element communication.
+* Changed: tech menu can be opened from pause menu now.
+* Changed: tech menu shows some ui to understand which element is selected for unknown technology.
+* Changed: unstable terrain nodes (explosive ones) reveal vision now when they explode.
+* Fixed: options menu navigation from close button.
+* Fixed: anomalies can't attack the stargate (which is invulnerable right now so it makes no sense)
+
+0.7.4 - Progression
+
+* Added: the game can be completed again in the fourth asteroid.
+* Added: now enemies should be able to move better in order to return to closer anomaly portal to deliver minerals.
+* Added: new building, the artifact assembly (it reuses and old structure assets, will try to make something different in the future).
+* Changed: had to force clear the run data to be sure the proper progression, so your current run progress will be lost (if you had any).
+* Changed: updated to latest unity version.
+* Hotfix: continue button was active even when savegame couldn't be continued. 
+* Hotfix: new savegame with no run data was failing too.
+
+0.7.3 - Travel
+
+* Added: show how many artifact parts were collected, only applied after escaping the asteroid with it.
+* Added: basic size, minerals and density progression when traveling to next asteroid. 
+* Added: enemies have some basic threat progression when traveling to next asteroid.
+* Changed: now drone factory is spawned close to the stargate and only after first asteroid.
+* Changed: some internal optimizations for vision/fog.
+* Changed: changed back to do small damage with unstable mining now there is an easy way to recover hp from debris. 
+* Fixed: highlight and show error on mineral costs, again xD. 
+* Fixed: Anomaly portal can absorb minerals (is absorbing blueprints as well... should it?).
+
+0.7.2 - Travel
+
+* Changed: Find artifact pieces in order to travel to next asteroid (work in progress). 
+* Changed: Unstable mining reduced damage to 0, and increased a bit the pushback.
+* Changed: Ship auto repairs itself when collecting scrap.
+* Changed: Some stats have higher cap and some others lower now.
+* Changed: Related to last one, ship starts with some lower base stats but upgrades changes are more powerful now.
+
+0.7.1
+
+* Added: basic mouse support with virtual cursor to interact with UI.
+* Fixed: updated unity to fix vulnerability issue
+
+0.7.0 
+
+* Fixed: close confirm popups with back or escape was leaving the game unplayable in some cases.
+* Fixed: navigation issues when selecting the outcomes tech window.
+* Changed: initial gamepad disclaimer text.
+* Changed: disabled tutorial mode for now since it doesn't say anything and the initial scroll works strange.
+
+0.6.16 - DEMO RELEASE
 
 * Added: Analytics and Crashes Opt-in popup on main menu (only once)
 * Added: Analytics and Crashes Opt-in toggle in options menu (disabled by default)
