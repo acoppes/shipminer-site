@@ -23,3 +23,13 @@ I will add more and more testers overtime. If you request access and get the cha
 </div>
 
 By the way, if you join the Discord and write to me I could also give you a Playtest key directly to be sure you have access to the game.
+
+## For Playtesters 
+
+Already joined the Playtest and want to be in the latest unstable build? _(probably full of bugs)_ 
+
+<div class="post-image">
+<img src="/assets/playtest/playtest-steam-step-new.png" />
+</div>
+
+Just use the following code `playtestinthevoid` and then select the `development` branch.
