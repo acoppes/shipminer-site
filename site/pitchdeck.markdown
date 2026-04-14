@@ -69,6 +69,19 @@ __IMPROVE__ your ship with minerals to make your task better and faster.
 
 __SURVIVE__ many dangers, use your skills and upgrades to complete The Mission.
 
+  <details>
+      <summary class="title">Context & Narrative</summary>
+<p>You are a simple worker doing your daily job of mining asteroids with your Ship and getting minerals for the Galactic Miner Corp (GMC).</p>
+<p>During your job you start getting encounters with The Anomaly, a manifestation from outside our galaxy that is absorbing our minerals and our galaxy.</p>
+<p>The GMC has a plan, to build a device that can stop the threat but needs lots of minerals and parts of an ancient artifact. All miners across the galaxy need to help in that.</p>
+
+<button title="Spoilers" type="button" onclick="if(document.getElementById('spoiler') .style.display=='none') {document.getElementById('spoiler') .style.display=''}else{document.getElementById('spoiler') .style.display='none'}">Spoilers</button>
+<div id="spoiler" style="display:none">
+In the end the GMC wanted to harness the full power of The Anomaly with this new device and they were in fact the reason The Anomaly appeared in the first place.
+</div>
+<br/>
+<p>Narrative in the game will not be explicit in order for the player to imagine its own story behind everything, but there will be some information from time to time to help connecting dots and filling blanks.</p>
+</details>
 
 ## Team
 
