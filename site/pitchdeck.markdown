@@ -11,7 +11,7 @@ meta_robots: noindex
 </video> 
 </div>
 
-# Elevator Pitch 
+## Elevator Pitch 
 
 Ship Miner is a relaxing miner roguelike game with unique retro 1-bit pixel art aesthetics and combat elements.
 
@@ -49,7 +49,7 @@ Release
 * Aiming to release EA in Q2 of 2026, and looking for funding and marketing services for the last stage of development.
 * Will also publish the OST as a support pack in Steam.
 
-# Gameplay & Core Loop
+## Gameplay & Core Loop
 
 <div class="post-image">
 <img src="/assets/marketing/steam_description_explore_02.gif" />
@@ -70,7 +70,7 @@ __IMPROVE__ your ship with minerals to make your task better and faster.
 __SURVIVE__ many dangers, use your skills and upgrades to complete The Mission.
 
 
-# Team
+## Team
 
 * __Ariel Coppes (me)__: Doing almost everything (game design, art, code and marketing), I have 15y of game development experience and I've released games like Kingdom Rush 2 and Iron Marines 1 and 2 while I was at Ironhide Games Studio, and now I'm helping with Cleared Hot for Steam. 
 * __Esteban Dal Monte (unf0ld)__: making the music and sound effects as contractor.
@@ -93,7 +93,7 @@ Here are some of the songs of the Ship Miner OST:
 <span>Massive</span>
 </div>
 
-# Timeline
+## Timeline
 
 * 2024: Prototype and market validation
 * 2025
@@ -105,7 +105,7 @@ Here are some of the songs of the Ship Miner OST:
 * 2027
   - Release in February
 
-# Roadmap
+## Roadmap
 
 * Early Access
   - More content (enemies, upgrades, ships)
@@ -119,13 +119,13 @@ Here are some of the songs of the Ship Miner OST:
   - Full mouse support (aiming)
   - Retro visual effects (scanlines, crt, etc)
 
-# Features
+## Features
 
 * Local Coop
 * Cloud save
 * Fmod
 
-# What I need from a Publisher
+## What I need from a Publisher
 
 * Expand visibility.
 * Funding
@@ -133,11 +133,11 @@ Here are some of the songs of the Ship Miner OST:
 
 TODO: explain the good marketing beats in social network but I need to be in more fests and get some content creators.
 
-# Budget
+## Budget
 
 * 30k mainly to complete development but also to get dev kits and port the game to consoles.
 
-# What the players are saying
+## What the players are saying
 
 * Want more content
 * Expected cost
@@ -145,13 +145,16 @@ TODO: explain the good marketing beats in social network but I need to be in mor
 
 TODO: SHOW SOME IMAGES HERE
 
-# Data of current playtime
+## Data of current playtime
 
 * Some players play a lot
 
 TODO: SHOW STEAM DATA HERE
 
-# Contact
+## Contact
 
 * twitter, etc
+* site
 
+TODO: put more links as part of the text too (link to unfold, link to my dev)
+TODO: main video more gameplay and less demo announcement?
