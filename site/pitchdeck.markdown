@@ -27,27 +27,25 @@ Connect a 40y+ generation with their kids by playing a retro game but with moder
 
 Summary
 
+* Name: Ship Miner
 * Genre: Roguelike, Action, Strategy
 * Type of game: Relaxing mining + action
-* Players: 1-4 players.
-* Controls: Gamepad preferred (twin stick) but support for keyboard+mouse.
-* Price: Targeting to $9.99 on full release and $4.99 for early access.
-* Gameplay time: 20h+.
 * Studio: Pixel Core Games
+* Players: 1-4 players.
+* Controls: Gamepad (twin stick) preferred, includes keyboard+mouse support.
+* Price: Targeting to $9.99 on full release and $4.99 during early access.
+* Target Release: Early Access in Q3 2026 and 1.0 in 2027
+* Target Gameplay: >20 hours.
 * Platforms: Steam Deck + PC (Steam), Consoles later (need help with this).
 * Engine: Unity 
 * Development Stage: Alpha
+* Public Demo and Private Playtest available.
 
-Development Stage
+## Stats
 
-* Alpha: still defining the metagame loop and then expand the content (enemies, upgrades, etc). 
-* Public Demo available to generate interest and polish demo for next fest.
-* Private Playtest to show what's coming and validate with players.
-
-Release
-
-* Aiming to release EA in Q2 of 2026, and looking for funding and marketing services for the last stage of development.
-* Will also publish the OST as a support pack in Steam.
+* 4k wishlists
+* XXX playtesters
+* 1.5h average with 20h+ players
 
 ## Gameplay & Core Loop
 
@@ -69,26 +67,39 @@ __IMPROVE__ your ship with minerals to make your task better and faster.
 
 __SURVIVE__ many dangers, use your skills and upgrades to complete The Mission.
 
-  <details>
+<!-- details>
       <summary class="title">Context & Narrative</summary>
 <p>You are a simple worker doing your daily job of mining asteroids with your Ship and getting minerals for the Galactic Miner Corp (GMC).</p>
 <p>During your job you start getting encounters with The Anomaly, a manifestation from outside our galaxy that is absorbing our minerals and our galaxy.</p>
 <p>The GMC has a plan, to build a device that can stop the threat but needs lots of minerals and parts of an ancient artifact. All miners across the galaxy need to help in that.</p>
-
-<button title="Spoilers" type="button" onclick="if(document.getElementById('spoiler') .style.display=='none') {document.getElementById('spoiler') .style.display=''}else{document.getElementById('spoiler') .style.display='none'}">Spoilers</button>
-<div id="spoiler" style="display:none">
-In the end the GMC wanted to harness the full power of The Anomaly with this new device and they were in fact the reason The Anomaly appeared in the first place.
-</div>
-<br/>
+<p>
+In the end the GMC wanted to harness the full power of The Anomaly with this new device and they were in fact the reason The Anomaly appeared in the first place, so there is kinda of a paradox.
+</p>
 <p>Narrative in the game will not be explicit in order for the player to imagine its own story behind everything, but there will be some information from time to time to help connecting dots and filling blanks.</p>
-</details>
+</details -->
+
+## Context & Narrative
+
+You are a simple worker doing your daily job of mining asteroids with your Ship and getting minerals for the Galactic Miner Corp (GMC).
+
+During your job you start getting encounters with The Anomaly, a manifestation from outside our galaxy that is absorbing our minerals and our galaxy.
+
+The GMC has a plan, to build a device that can stop the threat but needs lots of minerals and parts of an ancient artifact. All miners across the galaxy need to help in that.
+
+[SPOILER] In the end the GMC wanted to harness the full power of The Anomaly with this new device and they were in fact the reason The Anomaly appeared in the first place, so there is kinda of a paradox. [/SPOILER]
+
+Narrative in the game will not be explicit in order for the player to imagine its own story behind everything, but there will be some information from time to time to help connecting dots and filling blanks.
 
 ## Team
 
 * __Ariel Coppes (me)__: Doing almost everything (game design, art, code and marketing), I have 15y of game development experience and I've released games like Kingdom Rush 2 and Iron Marines 1 and 2 while I was at Ironhide Games Studio, and now I'm helping with Cleared Hot for Steam. 
 * __Esteban Dal Monte (unf0ld)__: making the music and sound effects as contractor.
 
-Here are some of the songs of the Ship Miner OST:
+TODO: ANIMATED GIF SHOWING TWO PLAYERS HERE
+
+## Music
+
+The game will release with a full OST, here are some of the songs:
 
 <div class="post-image">
 <audio controls>
@@ -106,17 +117,36 @@ Here are some of the songs of the Ship Miner OST:
 <span>Massive</span>
 </div>
 
+## Unique Selling Points
+
+* Simple and retro aesthetics motivating player's imagination.
+* Immersive experience. Gamepad and headphones will maximize it.
+* High replayability, start in new asteroids each time, select different destinations per run, get a new experience each time.
+* Multiplies with new content, planned to grow over time.
+
+## Target Audience
+
+It is targeted to grown up players (> 35y) with nostalgia for retro games but also with modern mechanics and gameplay so they can connect with their kids when playing it.
+
+## Marketing Opportunity
+
+TODO: Compare with similar games.
+
 ## Timeline
 
-* 2024: Prototype and market validation
+* 2023
+  - Dec: Prototype
+* 2024
+  - Jan: Game Announcement (social networks)
+  - June: Steam Page Announcement
 * 2025
-  - Private Playtes
-  - Demo
+  - July: Private Playtest
+  - Sept: Demo
 * 2026
-  - Steam Next Fest in June
-  - Early Access Release in July/Aug
+  - Oct: Steam Next Fest
+  - Nov: Early Access Release
 * 2027
-  - Release in February
+  - Full release
 
 ## Roadmap
 
@@ -140,15 +170,18 @@ Here are some of the songs of the Ship Miner OST:
 
 ## What I need from a Publisher
 
-* Expand visibility.
+* Help expanding visibility
 * Funding
 * Console Port help (get devkits)
+* Localization support
 
 TODO: explain the good marketing beats in social network but I need to be in more fests and get some content creators.
 
 ## Budget
 
-* 30k mainly to complete development but also to get dev kits and port the game to consoles.
+* 25k for 6 months of development until Early Access 
+* 5k for getting Nintendo Switch, Xbox and Playstation dev kits + porting.
+* Total 30k
 
 ## What the players are saying
 
