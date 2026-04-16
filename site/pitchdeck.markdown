@@ -6,14 +6,14 @@ meta_robots: noindex
 
 <div class="post-image">
 <video controls width="100%" autoplay="autoplay" muted="muted">
-  <source src="/assets/videos/shipminer-demo-announcement-rc1.mp4" type="video/mp4">
+  <source src="/assets/pitchdeck/shipminer-medium-gameplay-720p30fps.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video> 
 </div>
 
 ## Elevator Pitch 
 
-Ship Miner is a relaxing miner roguelike game with unique retro 1-bit pixel art aesthetics and combat elements.
+Ship Miner is a relaxing miner roguelike game with unique retro 1-bit pixel art aesthetics and combat elements, inspired by [Dome Keeper](https://store.steampowered.com/app/1637320/Dome_Keeper/) and [Kingdom: Classic](https://store.steampowered.com/app/368230/Kingdom_Classic/).
 
 <!-- 
 * Explore and Mine minerals from procedural generated asteroids.
@@ -21,9 +21,9 @@ Ship Miner is a relaxing miner roguelike game with unique retro 1-bit pixel art 
 * Combat different threats.
 -->
 
-Retro visuals provide an immersive experience that builds up on player's imagination and getting deep audio, game mechanics, animations and content support that.
+The game provides an immersive experience that builds up on player's imagination. 
 
-Connect a 40y+ generation with their kids by playing a retro game but with modern mechanics.
+It appeals the nostalgia of old games with its retro look but supported with modern controls, mechanics and audio, to try to connect a 40y+ generation with their kids (which is my case).
 
 Summary
 
@@ -44,8 +44,9 @@ Summary
 ## Stats
 
 * 4k wishlists
-* XXX playtesters
-* 1.5h average with 20h+ players
+* 350 active play testers
+* 1.5h average time played
+* 10% of players playing 3+ hours 
 
 ## Gameplay & Core Loop
 
@@ -67,18 +68,9 @@ __IMPROVE__ your ship with minerals to make your task better and faster.
 
 __SURVIVE__ many dangers, use your skills and upgrades to complete The Mission.
 
-<!-- details>
-      <summary class="title">Context & Narrative</summary>
-<p>You are a simple worker doing your daily job of mining asteroids with your Ship and getting minerals for the Galactic Miner Corp (GMC).</p>
-<p>During your job you start getting encounters with The Anomaly, a manifestation from outside our galaxy that is absorbing our minerals and our galaxy.</p>
-<p>The GMC has a plan, to build a device that can stop the threat but needs lots of minerals and parts of an ancient artifact. All miners across the galaxy need to help in that.</p>
-<p>
-In the end the GMC wanted to harness the full power of The Anomaly with this new device and they were in fact the reason The Anomaly appeared in the first place, so there is kinda of a paradox.
-</p>
-<p>Narrative in the game will not be explicit in order for the player to imagine its own story behind everything, but there will be some information from time to time to help connecting dots and filling blanks.</p>
-</details -->
-
 ## Context & Narrative
+
+__Inspiration__: game is inspired in books like Foundation, Dune and the Expanse, among others.
 
 You are a simple worker doing your daily job of mining asteroids with your Ship and getting minerals for the Galactic Miner Corp (GMC).
 
@@ -86,18 +78,27 @@ During your job you start getting encounters with The Anomaly, a manifestation f
 
 The GMC has a plan, to build a device that can stop the threat but needs lots of minerals and parts of an ancient artifact. All miners across the galaxy need to help in that.
 
-[SPOILER] In the end the GMC wanted to harness the full power of The Anomaly with this new device and they were in fact the reason The Anomaly appeared in the first place, so there is kinda of a paradox. [/SPOILER]
+Spoilers: In the end the GMC wanted to harness the full power of The Anomaly with this new device and they were in fact the reason The Anomaly appeared in the first place, so there is kinda of a paradox.
 
-Narrative in the game will not be explicit in order for the player to imagine its own story behind everything, but there will be some information from time to time to help connecting dots and filling blanks.
+Narrative in the game is implicit in order for the player to imagine its own story behind everything, but there will be some information from time to time to help connecting dots and filling blanks.
 
 ## Team
 
-* __Ariel Coppes (me)__: Doing almost everything (game design, art, code and marketing), I have 15y of game development experience and I've released games like Kingdom Rush 2 and Iron Marines 1 and 2 while I was at Ironhide Games Studio, and now I'm helping with Cleared Hot for Steam. 
-* __Esteban Dal Monte (unf0ld)__: making the music and sound effects as contractor.
+* __Ariel Coppes (me)__
+  - 41 years old with two kids.
+  - 15 years of game development experience.
+  - Software Engineer doing programming, game design, art and marketing.
+  - Worked at Ironhide Games Studio in [Kingdom Rush](https://store.steampowered.com/app/246420/Kingdom_Rush___Tower_Defense/) and [Iron Marines](https://store.steampowered.com/app/931280/Iron_Marines/) series.
+  - Working part time in [Cleared Hot](https://store.steampowered.com/app/1710820/Cleared_Hot/) for Steam.
+  - [More info](https://arielcoppes.dev)
+* __Esteban Dal Monte (unf0ld)__
+  - Music and Sound effects
+  - Contractor (and friend)
+  - [Instagram](https://www.instagram.com/unf0ldmusic/)
 
 TODO: ANIMATED GIF SHOWING TWO PLAYERS HERE
 
-## Music
+## Unf0ld Music
 
 The game will release with a full OST, here are some of the songs:
 
@@ -117,20 +118,31 @@ The game will release with a full OST, here are some of the songs:
 <span>Massive</span>
 </div>
 
-## Unique Selling Points
+## Selling Points
 
-* Simple and retro aesthetics motivating player's imagination.
-* Immersive experience. Gamepad and headphones will maximize it.
-* High replayability, start in new asteroids each time, select different destinations per run, get a new experience each time.
-* Multiplies with new content, planned to grow over time.
+* Motivates player's imagination with a simple and unique retro aesthetics.
+* Immersive experience. 
+  - Controls and music maximize it.
+* High replay value:
+  - Different asteroids each run
+  - Multiple technologies, different each time.
+  - Gameplay changers (technology, destinations, etc)
+* Multiplies with new content (techs, ships, asteroid elements, game modes), planned to grow over time.
 
 ## Target Audience
 
-It is targeted to grown up players (> 35y) with nostalgia for retro games but also with modern mechanics and gameplay so they can connect with their kids when playing it.
+* 35+ years old (with or without kids)
+* Nostalgic players (love for retro visuals and old consoles)
+* Sci-fi fans
 
 ## Marketing Opportunity
 
-TODO: Compare with similar games.
+* Tier 3: Dome Keeper Tier (20k reviews)
+* Tier 2: Wall World & Drill Core (>2000 reviews)
+* Tier 1: Coal LLC & Bore Blasters (<1000 reviews)
+* Tier 0: ~150 reviews.
+
+I believe Ship Miner will be between Tier 0 and Tier 1 but can reach Tier 2 with marketing help. 
 
 ## Timeline
 
@@ -199,8 +211,10 @@ TODO: SHOW STEAM DATA HERE
 
 ## Contact
 
-* twitter, etc
-* site
+* email: [ariel.coppes@gmail.com](mailto:ariel.coppes@gmail.com)
+* Twitter/X: [https://x.com/arielsan](https://x.com/arielsan)
+* Website [https://arielcoppes.dev/](https://arielcoppes.dev/)
+* Discord: .arielsan
 
 TODO: put more links as part of the text too (link to unfold, link to my dev)
 TODO: main video more gameplay and less demo announcement?
