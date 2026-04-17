@@ -78,7 +78,7 @@ During your job you start getting encounters with The Anomaly, a manifestation f
 
 The GMC has a plan, to build a device that can stop the threat but needs lots of minerals and parts of an ancient artifact.
 
-Spoilers: In the end the GMC wanted to harness the full power of The Anomaly with this new device and they were in fact the reason The Anomaly appeared in the first place, so there is kinda of a paradox.
+SPOILERS: In the end the GMC wanted to harness the full power of The Anomaly with this new device and they were in fact the reason The Anomaly appeared in the first place, so there is kinda of a paradox.
 
 _Narrative in the game is implicit in order for the player to imagine its own story behind everything, but there will be some information from time to time to help connecting dots and filling blanks._
 
@@ -190,9 +190,9 @@ TODO: explain the good marketing beats in social network but I need to be in mor
 
 ## Budget
 
-* 28k for 7 months of development until Early Access 
+* 45k for 12 months of development until full release 
 * 10k for getting Nintendo Switch, Xbox and Playstation dev kits + porting (2-3 months after launch)
-* Total 38k
+* Total 55k
 
 ## What the players are saying
 
