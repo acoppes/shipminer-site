@@ -13,7 +13,7 @@ meta_robots: noindex
 
 ## Elevator Pitch 
 
-Ship Miner is a relaxing miner roguelike game with unique retro 1-bit pixel art aesthetics and combat elements, inspired by [Dome Keeper](https://store.steampowered.com/app/1637320/Dome_Keeper/) and [Kingdom: Classic](https://store.steampowered.com/app/368230/Kingdom_Classic/).
+Ship Miner is an action roguelike about mining asteroids. It has a relaxing atmosphere with a unique retro art style. It is inspired by games like [Dome Keeper](https://store.steampowered.com/app/1637320/Dome_Keeper/) and [Kingdom: Classic](https://store.steampowered.com/app/368230/Kingdom_Classic/).
 
 <!-- 
 * Explore and Mine minerals from procedural generated asteroids.
@@ -23,20 +23,20 @@ Ship Miner is a relaxing miner roguelike game with unique retro 1-bit pixel art 
 
 The game provides an immersive experience that builds up on player's imagination. 
 
-It appeals the nostalgia of old games with its retro look but supported with modern controls, mechanics and audio, to try to connect a 40y+ generation with their kids (which is my case).
+It appeals the nostalgia for old games with its visuals while supporting modern controls, mechanics and audio, to try to connect different generations (I play with my kids for example).
 
 Summary
 
 * Name: Ship Miner
 * Genre: Roguelike, Action, Strategy
-* Type of game: Relaxing mining + action
-* Studio: Pixel Core Games
+* Type: Relaxing, Mining
+* Studio: Pixel Core Games (one developer)
 * Players: 1-4 players.
 * Controls: Gamepad (twin stick) preferred, includes keyboard+mouse support.
 * Price: Targeting to $9.99 on full release and $4.99 during early access.
 * Target Release: Early Access in Q3 2026 and 1.0 in 2027
 * Target Gameplay: >20 hours.
-* Platforms: Steam Deck + PC (Steam), Consoles later (need help with this).
+* Platforms: Steam Deck + PC (Steam) first and Consoles later.
 * Engine: Unity 
 * Development Stage: Alpha
 * Public Demo and Private Playtest available.
@@ -72,15 +72,15 @@ __SURVIVE__ many dangers, use your skills and upgrades to complete The Mission.
 
 __Inspiration__: game is inspired in books like Foundation, Dune and the Expanse, among others.
 
-You are a simple worker doing your daily job of mining asteroids with your Ship and getting minerals for the Galactic Miner Corp (GMC).
+You are a worker doing your daily (what is daily in space?) job of mining asteroids with your Ship and getting minerals for the Galactic Miner Corp (GMC).
 
 During your job you start getting encounters with The Anomaly, a manifestation from outside our galaxy that is absorbing our minerals and our galaxy.
 
-The GMC has a plan, to build a device that can stop the threat but needs lots of minerals and parts of an ancient artifact. All miners across the galaxy need to help in that.
+The GMC has a plan, to build a device that can stop the threat but needs lots of minerals and parts of an ancient artifact.
 
 Spoilers: In the end the GMC wanted to harness the full power of The Anomaly with this new device and they were in fact the reason The Anomaly appeared in the first place, so there is kinda of a paradox.
 
-Narrative in the game is implicit in order for the player to imagine its own story behind everything, but there will be some information from time to time to help connecting dots and filling blanks.
+_Narrative in the game is implicit in order for the player to imagine its own story behind everything, but there will be some information from time to time to help connecting dots and filling blanks._
 
 ## Team
 
@@ -121,17 +121,16 @@ The game will release with a full OST, here are some of the songs:
 ## Selling Points
 
 * Motivates player's imagination with a simple and unique retro aesthetics.
-* Immersive experience. 
-  - Controls and music maximize it.
+* Immersive experience, controls and music maximize it.
 * High replay value:
-  - Different asteroids each run
+  - Procedural generated asteroids
   - Multiple technologies, different each time.
   - Gameplay changers (technology, destinations, etc)
-* Multiplies with new content (techs, ships, asteroid elements, game modes), planned to grow over time.
+* Multiplies game time with new content (techs, ships, asteroid elements, game modes), planned to grow over time.
 
 ## Target Audience
 
-* 35+ years old (with or without kids)
+* 35+ years old
 * Nostalgic players (love for retro visuals and old consoles)
 * Sci-fi fans
 
@@ -139,10 +138,12 @@ The game will release with a full OST, here are some of the songs:
 
 * Tier 3: Dome Keeper Tier (20k reviews)
 * Tier 2: Wall World & Drill Core (>2000 reviews)
+  - Ship Miner with marketing help
 * Tier 1: Coal LLC & Bore Blasters (<1000 reviews)
+  - Ship Miner by myself
 * Tier 0: ~150 reviews.
 
-I believe Ship Miner will be between Tier 0 and Tier 1 but can reach Tier 2 with marketing help. 
+I believe Ship Miner will be between Tier 0 and Tier 1 but can reach Tier 2 with marketing help. That means the game could go from 15k to 200k of gross revenue.
 
 ## Timeline
 
@@ -164,42 +165,39 @@ I believe Ship Miner will be between Tier 0 and Tier 1 but can reach Tier 2 with
 
 * Early Access
   - More content (enemies, upgrades, ships)
-  - Customize game (for example: play without enemies)
   - Localization 3 to 4 languages (english, spanish, japanese and portuguese)
+  - Other game modes: sandbox (no enemies), custom (more/less difficulty, more/less minerals).
 * Launch
-  - Accessibility options
-  - Achievements
   - Ship Selection (metagame progress, start better)
+  - Achievements
+  - Accessibility options
   - Localization more languages (chinese, etc)
   - Full mouse support (aiming)
   - Retro visual effects (scanlines, crt, etc)
 
-## Features
-
-* Local Coop
-* Cloud save
-* Fmod
-
 ## What I need from a Publisher
 
-* Help expanding visibility
+* Multiply visibility
 * Funding
-* Console Port help (get devkits)
+* Console port help (get devkits)
 * Localization support
+
+Game has marketing potential, showed up some promising results in social networks, it can be expanded with content creators.
+
+IMAGES
 
 TODO: explain the good marketing beats in social network but I need to be in more fests and get some content creators.
 
 ## Budget
 
-* 25k for 6 months of development until Early Access 
-* 5k for getting Nintendo Switch, Xbox and Playstation dev kits + porting.
-* Total 30k
+* 28k for 7 months of development until Early Access 
+* 10k for getting Nintendo Switch, Xbox and Playstation dev kits + porting (2-3 months after launch)
+* Total 38k
 
 ## What the players are saying
 
 * Want more content
-* Expected cost
-* What is good and what can be improved.
+* Expected cost between 4.99 and 9.99
 
 TODO: SHOW SOME IMAGES HERE
 
@@ -215,6 +213,3 @@ TODO: SHOW STEAM DATA HERE
 * Twitter/X: [https://x.com/arielsan](https://x.com/arielsan)
 * Website [https://arielcoppes.dev/](https://arielcoppes.dev/)
 * Discord: .arielsan
-
-TODO: put more links as part of the text too (link to unfold, link to my dev)
-TODO: main video more gameplay and less demo announcement?
