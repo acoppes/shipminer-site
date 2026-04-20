@@ -120,8 +120,40 @@ Game has marketing potential, showed up promising results in social networks, it
 
 _Note: this is the budget to complete the game without considering the already invested money_
 
-## Team
+<details  markdown="1">
+  <summary class="title">Timeline</summary>
+* 2023
+  - Dec: Prototype
+* 2024
+  - Jan: Game Announcement (social networks)
+  - Jun: Steam Page Announcement
+* 2025
+  - Jul: Private Playtest
+  - Sep: Demo
+* 2026
+  - Oct: Steam Next Fest
+  - Nov: Early Access Release
+* 2027
+  - Q2: Full release
+</details>
 
+<details  markdown="1">
+  <summary class="title">Roadmap</summary>
+* Early Access
+  - More content (enemies, upgrades, ships)
+  - Localization 3 to 4 languages (english, spanish, japanese and portuguese)
+  - Other game modes: sandbox (no enemies), custom (more/less difficulty, more/less minerals).
+* Launch
+  - Ship Selection (metagame progress, start better)
+  - Achievements
+  - Accessibility options
+  - Localization more languages (chinese, etc)
+  - Full mouse support (aiming)
+  - Retro visual effects (scanlines, crt, etc)
+</details>
+
+<details  markdown="1">
+  <summary class="title">Team</summary>
 * __Ariel Coppes (me)__
   - 41 years old with two kids.
   - 15 years of game development experience.
@@ -133,9 +165,25 @@ _Note: this is the budget to complete the game without considering the already i
   - Music and Sound effects
   - Contractor (and friend)
   - [Instagram](https://www.instagram.com/unf0ldmusic/)
+</details>
 
-## Unf0ld Music
+<details  markdown="1">
+  <summary class="title">Context & Narrative</summary>
+__Inspiration__: game is inspired by books like Foundation, Dune and the Expanse, among others.
 
+You are a worker doing your daily (what is daily in space?) job of mining asteroids with your Ship and getting minerals for the Galactic Miner Corp (GMC).
+
+During your job you start getting encounters with The Anomaly, a manifestation from outside our galaxy that is absorbing our minerals and our galaxy.
+
+The GMC has a plan, to build a device that can stop the threat but needs lots of minerals and parts of an ancient artifact.
+
+SPOILERS: In the end the GMC wanted to harness the full power of The Anomaly with this new device and they were in fact the reason The Anomaly appeared in the first place, so there is kinda of a paradox.
+
+_Narrative in the game is implicit in order for the player to imagine its own story behind everything, but there will be some information from time to time to help connecting dots and filling blanks._
+</details>
+
+<details>
+  <summary class="title">Unf0ld Music</summary>
 The game will release with a full OST, here are some of the songs:
 
 <div class="post-image">
@@ -153,54 +201,14 @@ The game will release with a full OST, here are some of the songs:
 </audio>
 <span>Massive</span>
 </div>
+</details>
 
-## Timeline
-
-* 2023
-  - Dec: Prototype
-* 2024
-  - Jan: Game Announcement (social networks)
-  - Jun: Steam Page Announcement
-* 2025
-  - Jul: Private Playtest
-  - Sep: Demo
-* 2026
-  - Oct: Steam Next Fest
-  - Nov: Early Access Release
-* 2027
-  - Q2: Full release
-
-## Roadmap
-
-* Early Access
-  - More content (enemies, upgrades, ships)
-  - Localization 3 to 4 languages (english, spanish, japanese and portuguese)
-  - Other game modes: sandbox (no enemies), custom (more/less difficulty, more/less minerals).
-* Launch
-  - Ship Selection (metagame progress, start better)
-  - Achievements
-  - Accessibility options
-  - Localization more languages (chinese, etc)
-  - Full mouse support (aiming)
-  - Retro visual effects (scanlines, crt, etc)
-
-## Context & Narrative
-
-__Inspiration__: game is inspired by books like Foundation, Dune and the Expanse, among others.
-
-You are a worker doing your daily (what is daily in space?) job of mining asteroids with your Ship and getting minerals for the Galactic Miner Corp (GMC).
-
-During your job you start getting encounters with The Anomaly, a manifestation from outside our galaxy that is absorbing our minerals and our galaxy.
-
-The GMC has a plan, to build a device that can stop the threat but needs lots of minerals and parts of an ancient artifact.
-
-SPOILERS: In the end the GMC wanted to harness the full power of The Anomaly with this new device and they were in fact the reason The Anomaly appeared in the first place, so there is kinda of a paradox.
-
-_Narrative in the game is implicit in order for the player to imagine its own story behind everything, but there will be some information from time to time to help connecting dots and filling blanks._
-
-## Contact
-
+<details  markdown="1">
+  <summary class="title">Contact</summary>
 * email: [ariel.coppes@gmail.com](mailto:ariel.coppes@gmail.com)
 * Twitter/X: [https://x.com/arielsan](https://x.com/arielsan)
 * Website [https://arielcoppes.dev/](https://arielcoppes.dev/)
 * Discord: .arielsan
+</details>
+
+
