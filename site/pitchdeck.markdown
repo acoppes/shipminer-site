@@ -86,9 +86,9 @@ __SURVIVE__ many dangers, use your skills and upgrades to complete The Mission.
 * Tier 1: Coal LLC & Bore Blasters (<1000 reviews)
 * Tier 0: ~150 reviews.
 
-Ship Miner can be between Tier 1 and Tier 2 which will surpass 200k of net revenue.
+Ship Miner showed potential to be over Tier 1, which will surpass 200k of net revenue.
 
-Game has marketing potential, showed up promising results in social networks, it can be expanded with content creators:
+Here are some of the promising results on social networks, which could be multiplied doing better marketing on other platforms.
 
 <div class="post-image">
 <a href="/assets/pitchdeck/shipminer-besttweet-2024_01.png">
@@ -113,21 +113,25 @@ Game has marketing potential, showed up promising results in social networks, it
 
 <details  markdown="1">
   <summary class="title">What I need from a Publisher</summary>
+
 * Funding & Marketing
 * Localization support
-* Console port support (get dev kits + stores access)
+* After PC release:
+  - Console port support (get dev kits + stores access)
 </details>
 
 <details  markdown="1">
   <summary class="title">Budget</summary>
-* 50k for 12 months of development until full release 
-* 5k more Music and SFX
-* 55k USD total.
 
-* Extra:
+* 50k USD for 12 months of development until full release 
+* 5k USD more Music and SFX
+* 50K - 65K USD total
+* After PC release
   - 15k for getting Nintendo Switch, Xbox and Playstation dev kits + porting
 
-_Note: this is the budget to complete the game without considering the already invested money_
+
+* Note: this is the budget doesn't consider previously invested money
+
 </details>
 
 <details  markdown="1">
@@ -165,12 +169,11 @@ _Note: this is the budget to complete the game without considering the already i
 
 <details  markdown="1">
   <summary class="title">Team</summary>
-* __Ariel Coppes (me)__
-  - 41 years old with two kids.
-  - 15 years of game development experience.
-  - Software Engineer doing programming, game design, art and marketing.
+* __Ariel Coppes__
+  - Software Engineer with 15+ years of game development experience.
   - Worked at Ironhide Games Studio in [Kingdom Rush](https://store.steampowered.com/app/246420/Kingdom_Rush___Tower_Defense/) and [Iron Marines](https://store.steampowered.com/app/931280/Iron_Marines/) series.
   - Working part time in [Cleared Hot](https://store.steampowered.com/app/1710820/Cleared_Hot/) for Steam.
+  - Doing programming, game design, art and marketing for Ship Miner.
   - [More info](https://arielcoppes.dev)
 * __Esteban Dal Monte (unf0ld)__
   - Music and Sound effects
