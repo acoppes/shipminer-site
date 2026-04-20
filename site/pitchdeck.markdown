@@ -14,7 +14,7 @@ description: Pitch Deck
 
 ## Elevator Pitch 
 
-Ship Miner is an action roguelike about mining asteroids __for up to 4 players__. It has a relaxing atmosphere with a unique retro art style. It is inspired by games like [Dome Keeper](https://store.steampowered.com/app/1637320/Dome_Keeper/) and [Kingdom: Classic](https://store.steampowered.com/app/368230/Kingdom_Classic/).
+Ship Miner is an action roguelike about mining asteroids. It can be played single or local co-op for up to 4 players. It has a relaxing atmosphere with a unique retro art style and it is inspired by games like [Dome Keeper](https://store.steampowered.com/app/1637320/Dome_Keeper/) and [Kingdom: Classic](https://store.steampowered.com/app/368230/Kingdom_Classic/).
 
 The game provides an immersive experience that builds up on player's imagination. 
 
@@ -25,7 +25,7 @@ Summary
 * Name: Ship Miner
 * Genre: Roguelike, Action, Strategy
 * Type: Relaxing, Mining
-* Studio: Pixel Core Games (one developer)
+* Studio: Pixel Core Games (1 developer)
 * Players: 1-4 players.
 * Controls: Gamepad (twin stick) preferred, includes keyboard+mouse support.
 * Price: Targeting to $9.99 on full release and $4.99 during early access.
@@ -35,13 +35,6 @@ Summary
 * Engine: Unity 
 * Development Stage: Alpha
 * Public Demo and Private Playtest available.
-
-## Stats
-
-* 4k wishlists
-* 350 active play testers
-* 1.5h average time played
-* 10% of players playing 3+ hours 
 
 ## Gameplay & Core Loop
 
@@ -63,42 +56,6 @@ __IMPROVE__ your ship with minerals to make your task better and faster.
 
 __SURVIVE__ many dangers, use your skills and upgrades to complete The Mission.
 
-## Team
-
-* __Ariel Coppes (me)__
-  - 41 years old with two kids.
-  - 15 years of game development experience.
-  - Software Engineer doing programming, game design, art and marketing.
-  - Worked at Ironhide Games Studio in [Kingdom Rush](https://store.steampowered.com/app/246420/Kingdom_Rush___Tower_Defense/) and [Iron Marines](https://store.steampowered.com/app/931280/Iron_Marines/) series.
-  - Working part time in [Cleared Hot](https://store.steampowered.com/app/1710820/Cleared_Hot/) for Steam.
-  - [More info](https://arielcoppes.dev)
-* __Esteban Dal Monte (unf0ld)__
-  - Music and Sound effects
-  - Contractor (and friend)
-  - [Instagram](https://www.instagram.com/unf0ldmusic/)
-
-TODO: ANIMATED GIF SHOWING TWO PLAYERS HERE
-
-## Unf0ld Music
-
-The game will release with a full OST, here are some of the songs:
-
-<div class="post-image">
-<audio controls>
-  <source src="/assets/pitchdeck/03 - Time Is Relative - Unf0ld.mp3" type="audio/mpeg">
-  Your browser does not support the audio tag.
-</audio>
-<span>Time is Relative</span>
-</div>
-
-<div class="post-image">
-<audio controls>
-  <source src="/assets/pitchdeck/23 - Massive - Unf0ld.mp3" type="audio/mpeg">
-  Your browser does not support the audio tag.
-</audio>
-<span>Massive</span>
-</div>
-
 ## Selling Points
 
 * Motivates player's imagination with a simple and unique retro aesthetics.
@@ -119,11 +76,83 @@ The game will release with a full OST, here are some of the songs:
 
 * Tier 3: Dome Keeper (20k reviews)
 * Tier 2: Wall World & Drill Core (>2000 reviews)
-  - Ship Miner
 * Tier 1: Coal LLC & Bore Blasters (<1000 reviews)
 * Tier 0: ~150 reviews.
 
-Ship Miner cen be between Tier 1 and Tier 2, which could go up to 200k of gross revenue.
+Ship Miner can be between Tier 1 and Tier 2 which will surpass 100k of net revenue.
+
+Game has marketing potential, showed up promising results in social networks, it can be expanded with content creators:
+
+<div class="post-image">
+<a href="/assets/pitchdeck/shipminer-besttweet-2024_01.png">
+<img src="/assets/pitchdeck/shipminer-besttweet-2024_01.png" width="550px"/>
+</a>
+</div>
+
+<div class="post-image">
+<a href="/assets/pitchdeck/moonminer-pixelartreddit.png">
+<img src="/assets/pitchdeck/moonminer-pixelartreddit.png" width="550px"/>
+</a>
+</div>
+
+## Stats
+
+* 4k wishlists
+* 350 active play testers
+* 1.5h average time played and 30m of median playtime.
+* 10% of players playing 3+ hours 
+
+## What I need from a Publisher
+
+* Multiply visibility
+* Funding
+* Console port help (get devkits)
+* Localization support
+
+## Budget
+
+* 50k for 12 months of development until full release 
+* 5k more Music and SFX
+* 55k USD total.
+
+* Extra
+  - 15k for getting Nintendo Switch, Xbox and Playstation dev kits + porting
+
+_Note: this is the budget to complete the game without considering the already invested money_
+
+## Team
+
+* __Ariel Coppes (me)__
+  - 41 years old with two kids.
+  - 15 years of game development experience.
+  - Software Engineer doing programming, game design, art and marketing.
+  - Worked at Ironhide Games Studio in [Kingdom Rush](https://store.steampowered.com/app/246420/Kingdom_Rush___Tower_Defense/) and [Iron Marines](https://store.steampowered.com/app/931280/Iron_Marines/) series.
+  - Working part time in [Cleared Hot](https://store.steampowered.com/app/1710820/Cleared_Hot/) for Steam.
+  - [More info](https://arielcoppes.dev)
+* __Esteban Dal Monte (unf0ld)__
+  - Music and Sound effects
+  - Contractor (and friend)
+  - [Instagram](https://www.instagram.com/unf0ldmusic/)
+
+## Unf0ld Music
+
+The game will release with a full OST, here are some of the songs:
+
+<div class="post-image">
+<audio controls>
+  <source src="/assets/pitchdeck/03 - Time Is Relative - Unf0ld.mp3" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
+<span>Time is Relative</span>
+</div>
+
+<div class="post-image">
+<audio controls>
+  <source src="/assets/pitchdeck/23 - Massive - Unf0ld.mp3" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
+<span>Massive</span>
+</div>
 
 ## Timeline
 
@@ -154,39 +183,6 @@ Ship Miner cen be between Tier 1 and Tier 2, which could go up to 200k of gross 
   - Localization more languages (chinese, etc)
   - Full mouse support (aiming)
   - Retro visual effects (scanlines, crt, etc)
-
-## What I need from a Publisher
-
-* Multiply visibility
-* Funding
-* Console port help (get devkits)
-* Localization support
-
-Game has marketing potential, showed up some promising results in social networks, it can be expanded with content creators.
-
-IMAGES
-
-TODO: explain the good marketing beats in social network but I need to be in more fests and get some content creators.
-
-## Budget
-
-* 40k for 12 months of development until full release 
-* 5k more Music and SFX
-* 10k for getting Nintendo Switch, Xbox and Playstation dev kits + porting (2-3 months after launch)
-* Total 55k
-
-## What the players are saying
-
-* Want more content
-* Expected cost between 4.99 and 9.99
-
-TODO: SHOW SOME IMAGES HERE
-
-## Data of current playtime
-
-* Some players play a lot
-
-TODO: SHOW STEAM DATA HERE
 
 ## Context & Narrative
 
