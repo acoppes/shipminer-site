@@ -36,7 +36,7 @@ It appeals to the nostalgia for old games with its visuals while supporting mode
 * Controls: Gamepad (twin stick) preferred, includes keyboard+mouse support.
 * Price: Targeting to $9.99 on full release and $4.99 during early access.
 * Target Release: Early Access in Q3 2026 and 1.0 in 2027
-* Target Gameplay: >20 hours.
+* Target Gameplay time: >20 hours.
 * Platforms: Steam Deck + PC (Steam) first and Consoles later.
 * Engine: Unity 
 * Development Stage: Alpha
@@ -63,13 +63,13 @@ __SURVIVE__ many dangers, use your skills and upgrades to complete The Mission.
 
 <details  markdown="1">
   <summary class="title">Selling Points</summary>
-  * Motivates player's imagination with a simple and unique retro aesthetics.
+  
+* Motivate player's imagination with a unique retro art style.
 * Immersive experience, controls and music maximize it.
 * High replay value:
-  - Procedural generated asteroids
-  - Multiple technologies, different each time.
-  - Gameplay changers (technology, destinations, etc)
-* Multiplies game time with new content (techs, ships, asteroid elements, game modes), planned to grow over time.
+  - Each run is different (generated asteroids, different technologies and encounters).
+  - Content like tech, ships, enemies, multiply game time.
+  - Content that change Gameplay (example: technology that change how to mine the asteroid).
 </details>
 
 <details  markdown="1">
