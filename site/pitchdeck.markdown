@@ -12,7 +12,8 @@ description: Pitch Deck
 </video> 
 </div>
 
-## Elevator Pitch 
+<details  markdown="1" open>
+  <summary class="title">Elevator Pitch </summary>
 
 Ship Miner is an action roguelike about mining asteroids. It can be played single or local co-op for up to 4 players. It has a relaxing atmosphere with a unique retro art style and it is inspired by games like [Dome Keeper](https://store.steampowered.com/app/1637320/Dome_Keeper/) and [Kingdom: Classic](https://store.steampowered.com/app/368230/Kingdom_Classic/).
 
@@ -20,7 +21,10 @@ The game provides an immersive experience that builds up on player's imagination
 
 It appeals to the nostalgia for old games with its visuals while supporting modern controls, mechanics and audio, to try to connect different generations (I play with my kids for example).
 
-Summary
+</details>
+
+<details  markdown="1">
+  <summary class="title">Summary</summary>
 
 * Name: Ship Miner
 * Genre: Roguelike, Action, Strategy
@@ -36,12 +40,10 @@ Summary
 * Development Stage: Alpha
 * Public Demo and Private Playtest available.
 
-## Gameplay & Core Loop
+</details>
 
-<div class="post-image">
-<img src="/assets/marketing/steam_description_explore_02.gif" />
-</div>
-
+<details  markdown="1">
+  <summary class="title">Gameplay & Core Loop</summary>
 __EXPLORE__ procedural generated asteroids and its surroundings to get minerals and other resources, and some surprises.
 
 <div class="post-image">
@@ -55,25 +57,28 @@ __IMPROVE__ your ship with minerals to make your task better and faster.
 </div>
 
 __SURVIVE__ many dangers, use your skills and upgrades to complete The Mission.
+</details>
 
-## Selling Points
-
-* Motivates player's imagination with a simple and unique retro aesthetics.
+<details  markdown="1">
+  <summary class="title">Selling Points</summary>
+  * Motivates player's imagination with a simple and unique retro aesthetics.
 * Immersive experience, controls and music maximize it.
 * High replay value:
   - Procedural generated asteroids
   - Multiple technologies, different each time.
   - Gameplay changers (technology, destinations, etc)
 * Multiplies game time with new content (techs, ships, asteroid elements, game modes), planned to grow over time.
+</details>
 
-## Target Audience
-
-* 35+ years old
+<details  markdown="1">
+  <summary class="title">Target Audience</summary>
+  * 35+ years old
 * Nostalgic players (love for retro visuals and old consoles)
 * Sci-fi fans
+</details>
 
-## Marketing Opportunity
-
+<details  markdown="1">
+  <summary class="title">Marketing Opportunity</summary>
 * Tier 3: Dome Keeper (20k reviews)
 * Tier 2: Wall World & Drill Core (>2000 reviews)
 * Tier 1: Coal LLC & Bore Blasters (<1000 reviews)
@@ -94,31 +99,35 @@ Game has marketing potential, showed up promising results in social networks, it
 <img src="/assets/pitchdeck/moonminer-pixelartreddit.png" width="550px"/>
 </a>
 </div>
+</details>
 
-## Stats
-
+<details  markdown="1">
+  <summary class="title">Stats</summary>
 * 4k wishlists
 * 350 active play testers
 * 1.5h average time played and 30m of median playtime.
 * 10% of players playing 3+ hours 
+</details>
 
-## What I need from a Publisher
-
+<details  markdown="1">
+  <summary class="title">What I need from a Publisher</summary>
 * Multiply visibility
 * Funding
-* Console port help (get devkits)
 * Localization support
+* Console port help (get devkits)
+</details>
 
-## Budget
-
+<details  markdown="1">
+  <summary class="title">Budget</summary>
 * 50k for 12 months of development until full release 
 * 5k more Music and SFX
 * 55k USD total.
 
-* Extra
+* Extra:
   - 15k for getting Nintendo Switch, Xbox and Playstation dev kits + porting
 
 _Note: this is the budget to complete the game without considering the already invested money_
+</details>
 
 <details  markdown="1">
   <summary class="title">Timeline</summary>
