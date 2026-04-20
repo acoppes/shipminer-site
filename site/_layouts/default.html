@@ -5,7 +5,9 @@
 
   <body>
 
+    {%- if page.disable_header != true -%}
     {%- include header.html -%}
+    {%- endif -%}
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
@@ -13,7 +15,9 @@
       </div>
     </main>
 
+    {%- if page.disable_footer != true -%}
     {%- include footer.html -%}
+    {%- endif -%}
 
   </body>
 

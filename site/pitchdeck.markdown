@@ -1,5 +1,7 @@
 ---
 layout: home
+disable_header: true
+disable_footer: true
 permalink: /pitchdeck
 meta_robots: noindex
 description: Pitch Deck
@@ -84,7 +86,7 @@ __SURVIVE__ many dangers, use your skills and upgrades to complete The Mission.
 * Tier 1: Coal LLC & Bore Blasters (<1000 reviews)
 * Tier 0: ~150 reviews.
 
-Ship Miner can be between Tier 1 and Tier 2 which will surpass 100k of net revenue.
+Ship Miner can be between Tier 1 and Tier 2 which will surpass 200k of net revenue.
 
 Game has marketing potential, showed up promising results in social networks, it can be expanded with content creators:
 
@@ -111,10 +113,9 @@ Game has marketing potential, showed up promising results in social networks, it
 
 <details  markdown="1">
   <summary class="title">What I need from a Publisher</summary>
-* Multiply visibility
-* Funding
+* Funding & Marketing
 * Localization support
-* Console port help (get devkits)
+* Console port support (get dev kits + stores access)
 </details>
 
 <details  markdown="1">
@@ -140,6 +141,7 @@ _Note: this is the budget to complete the game without considering the already i
   - Jul: Private Playtest
   - Sep: Demo
 * 2026
+  - Apr: < WE ARE HERE >
   - Oct: Steam Next Fest
   - Nov: Early Access Release
 * 2027
@@ -173,12 +175,11 @@ _Note: this is the budget to complete the game without considering the already i
 * __Esteban Dal Monte (unf0ld)__
   - Music and Sound effects
   - Contractor (and friend)
-  - [Instagram](https://www.instagram.com/unf0ldmusic/)
+  - [More info](https://www.instagram.com/unf0ldmusic/)
 </details>
 
 <details  markdown="1">
   <summary class="title">Context & Narrative</summary>
-__Inspiration__: game is inspired by books like Foundation, Dune and the Expanse, among others.
 
 You are a worker doing your daily (what is daily in space?) job of mining asteroids with your Ship and getting minerals for the Galactic Miner Corp (GMC).
 
@@ -188,11 +189,13 @@ The GMC has a plan, to build a device that can stop the threat but needs lots of
 
 SPOILERS: In the end the GMC wanted to harness the full power of The Anomaly with this new device and they were in fact the reason The Anomaly appeared in the first place, so there is kinda of a paradox.
 
-_Narrative in the game is implicit in order for the player to imagine its own story behind everything, but there will be some information from time to time to help connecting dots and filling blanks._
+* Narrative in the game is implicit in order for the player to imagine its own story behind everything, but there will be some information from time to time to help connecting dots and filling blanks.
+* Game is inspired by books like Foundation, Dune and the Expanse, among others.
+
 </details>
 
 <details>
-  <summary class="title">Unf0ld Music</summary>
+  <summary class="title">Unf0ld Music Demos</summary>
 The game will release with a full OST, here are some of the songs:
 
 <div class="post-image">
