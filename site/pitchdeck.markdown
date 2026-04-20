@@ -2,6 +2,7 @@
 layout: home
 permalink: /pitchdeck
 meta_robots: noindex
+description: Pitch Deck
 ---
 
 <div class="post-image">
@@ -13,17 +14,11 @@ meta_robots: noindex
 
 ## Elevator Pitch 
 
-Ship Miner is an action roguelike about mining asteroids. It has a relaxing atmosphere with a unique retro art style. It is inspired by games like [Dome Keeper](https://store.steampowered.com/app/1637320/Dome_Keeper/) and [Kingdom: Classic](https://store.steampowered.com/app/368230/Kingdom_Classic/).
-
-<!-- 
-* Explore and Mine minerals from procedural generated asteroids.
-* Upgrade your Ship with gameplay changer technologies.
-* Combat different threats.
--->
+Ship Miner is an action roguelike about mining asteroids __for up to 4 players__. It has a relaxing atmosphere with a unique retro art style. It is inspired by games like [Dome Keeper](https://store.steampowered.com/app/1637320/Dome_Keeper/) and [Kingdom: Classic](https://store.steampowered.com/app/368230/Kingdom_Classic/).
 
 The game provides an immersive experience that builds up on player's imagination. 
 
-It appeals the nostalgia for old games with its visuals while supporting modern controls, mechanics and audio, to try to connect different generations (I play with my kids for example).
+It appeals to the nostalgia for old games with its visuals while supporting modern controls, mechanics and audio, to try to connect different generations (I play with my kids for example).
 
 Summary
 
@@ -67,20 +62,6 @@ __IMPROVE__ your ship with minerals to make your task better and faster.
 </div>
 
 __SURVIVE__ many dangers, use your skills and upgrades to complete The Mission.
-
-## Context & Narrative
-
-__Inspiration__: game is inspired in books like Foundation, Dune and the Expanse, among others.
-
-You are a worker doing your daily (what is daily in space?) job of mining asteroids with your Ship and getting minerals for the Galactic Miner Corp (GMC).
-
-During your job you start getting encounters with The Anomaly, a manifestation from outside our galaxy that is absorbing our minerals and our galaxy.
-
-The GMC has a plan, to build a device that can stop the threat but needs lots of minerals and parts of an ancient artifact.
-
-SPOILERS: In the end the GMC wanted to harness the full power of The Anomaly with this new device and they were in fact the reason The Anomaly appeared in the first place, so there is kinda of a paradox.
-
-_Narrative in the game is implicit in order for the player to imagine its own story behind everything, but there will be some information from time to time to help connecting dots and filling blanks._
 
 ## Team
 
@@ -136,14 +117,13 @@ The game will release with a full OST, here are some of the songs:
 
 ## Marketing Opportunity
 
-* Tier 3: Dome Keeper Tier (20k reviews)
+* Tier 3: Dome Keeper (20k reviews)
 * Tier 2: Wall World & Drill Core (>2000 reviews)
-  - Ship Miner with marketing help
+  - Ship Miner
 * Tier 1: Coal LLC & Bore Blasters (<1000 reviews)
-  - Ship Miner by myself
 * Tier 0: ~150 reviews.
 
-I believe Ship Miner will be between Tier 0 and Tier 1 but can reach Tier 2 with marketing help. That means the game could go from 15k to 200k of gross revenue.
+Ship Miner cen be between Tier 1 and Tier 2, which could go up to 200k of gross revenue.
 
 ## Timeline
 
@@ -151,15 +131,15 @@ I believe Ship Miner will be between Tier 0 and Tier 1 but can reach Tier 2 with
   - Dec: Prototype
 * 2024
   - Jan: Game Announcement (social networks)
-  - June: Steam Page Announcement
+  - Jun: Steam Page Announcement
 * 2025
-  - July: Private Playtest
-  - Sept: Demo
+  - Jul: Private Playtest
+  - Sep: Demo
 * 2026
   - Oct: Steam Next Fest
   - Nov: Early Access Release
 * 2027
-  - Full release
+  - Q2: Full release
 
 ## Roadmap
 
@@ -190,7 +170,8 @@ TODO: explain the good marketing beats in social network but I need to be in mor
 
 ## Budget
 
-* 45k for 12 months of development until full release 
+* 40k for 12 months of development until full release 
+* 5k more Music and SFX
 * 10k for getting Nintendo Switch, Xbox and Playstation dev kits + porting (2-3 months after launch)
 * Total 55k
 
@@ -206,6 +187,20 @@ TODO: SHOW SOME IMAGES HERE
 * Some players play a lot
 
 TODO: SHOW STEAM DATA HERE
+
+## Context & Narrative
+
+__Inspiration__: game is inspired by books like Foundation, Dune and the Expanse, among others.
+
+You are a worker doing your daily (what is daily in space?) job of mining asteroids with your Ship and getting minerals for the Galactic Miner Corp (GMC).
+
+During your job you start getting encounters with The Anomaly, a manifestation from outside our galaxy that is absorbing our minerals and our galaxy.
+
+The GMC has a plan, to build a device that can stop the threat but needs lots of minerals and parts of an ancient artifact.
+
+SPOILERS: In the end the GMC wanted to harness the full power of The Anomaly with this new device and they were in fact the reason The Anomaly appeared in the first place, so there is kinda of a paradox.
+
+_Narrative in the game is implicit in order for the player to imagine its own story behind everything, but there will be some information from time to time to help connecting dots and filling blanks._
 
 ## Contact
 
