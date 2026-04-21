@@ -7,21 +7,81 @@ meta_robots: noindex
 description: Pitch Deck
 ---
 
-<div class="post-image">
+<!-- Required Core Stylesheet -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@glidejs/glide/dist/css/glide.core.min.css">
+<!-- Optional Theme Stylesheet -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@glidejs/glide/dist/css/glide.theme.min.css">
+
+<div class="container">
+<div class="glide">
+  <div class="glide__track" data-glide-el="track">
+    <ul class="glide__slides">
+      <li class="glide__slide"><video controls width="100%" autoplay="autoplay" muted="muted">
+  <source src="/assets/pitchdeck/shipminer-medium-gameplay-720p30fps.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video></li>
+      <li class="glide__slide">
+      <div class="post-image">
+<img src="/assets/pitchdeck/shipminer-coop-gameplay.gif" />
+</div></li>
+      <!-- li class="glide__slide">
+<h1>Selling Points</h1>
+<div>
+<ul>
+  <li>Motivate player's imagination with a unique retro art style.</li>
+  <li>Immersive experience, controls and music maximize it.</li>
+  <li>High replay value:</li>
+  <ul>
+    <li>Each run is different (generated asteroids, different technologies and encounters).</li>
+    <li>Content like tech, ships, enemies, multiply game time.</li>
+    <li>Content that change Gameplay (example: technology that change how to mine the asteroid).</li>
+  </ul>
+</ul>
+</div>
+      </li -->
+
+  </ul>
+</div>
+
+  <div class="glide__arrows" data-glide-el="controls">
+    <button class="glide__arrow glide__arrow--left" data-glide-dir="<">&lt;</button>
+    <button class="glide__arrow glide__arrow--right" data-glide-dir=">">&gt;</button>
+  </div>
+
+  <div class="glide__bullets" data-glide-el="controls[nav]">
+    <button class="glide__bullet" data-glide-dir="=0"></button>
+    <button class="glide__bullet" data-glide-dir="=1"></button>
+    <button class="glide__bullet" data-glide-dir="=2"></button>
+  </div>
+
+</div>
+
+ <script src="https://cdn.jsdelivr.net/npm/@glidejs/glide"></script>
+ <script>
+  new Glide('.glide', {
+    type: 'carousel',
+    perView: 1
+  }).mount()
+</script>
+</div>
+
+<!-- div class="post-image">
 <video controls width="100%" autoplay="autoplay" muted="muted">
   <source src="/assets/pitchdeck/shipminer-medium-gameplay-720p30fps.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video> 
-</div>
+</div -->
 
 <details  markdown="1" open>
   <summary class="title">Elevator Pitch </summary>
 
-Ship Miner is an action roguelike about mining asteroids. It can be played single or local co-op for up to 4 players. It has a relaxing atmosphere with a unique retro art style and it is inspired by games like [Dome Keeper](https://store.steampowered.com/app/1637320/Dome_Keeper/) and [Kingdom: Classic](https://store.steampowered.com/app/368230/Kingdom_Classic/).
+Ship Miner is an action roguelike about mining asteroids. It has a relaxing atmosphere with a unique retro art style and it is inspired by games like [Dome Keeper](https://store.steampowered.com/app/1637320/Dome_Keeper/) and [Kingdom: Classic](https://store.steampowered.com/app/368230/Kingdom_Classic/).
 
 The game provides an immersive experience that builds up on player's imagination. 
 
 It appeals to the nostalgia for old games with its visuals while supporting modern controls, mechanics and audio, to try to connect different generations (I play with my kids for example).
+
+It can be played single or local co-op for up to 4 players. 
 
 </details>
 
@@ -30,7 +90,7 @@ It appeals to the nostalgia for old games with its visuals while supporting mode
 
 * Name: Ship Miner
 * Genre: Roguelike, Action, Strategy
-* Type: Relaxing, Mining
+* Type: Relaxing, Mining, Strategic Combat
 * Studio: Pixel Core Games (1 developer)
 * Players: 1-4 players.
 * Controls: Gamepad (twin stick) preferred, includes keyboard+mouse support.
@@ -46,19 +106,19 @@ It appeals to the nostalgia for old games with its visuals while supporting mode
 
 <details  markdown="1">
   <summary class="title">Gameplay & Core Loop</summary>
-__EXPLORE__ procedural generated asteroids and its surroundings to get minerals and other resources, and some surprises.
+__EXPLORE__ procedural generated asteroids and its surroundings to get minerals, advanced technology blueprints, means to travel to asteroids and other things like logs with information.
 
 <div class="post-image">
 <img src="/assets/marketing/steam_description_improve_02.gif" />
 </div>
 
-__IMPROVE__ your ship with minerals to make your task better and faster.
+__IMPROVE__ your ship stats and technology mods with mined minerals to make your task better and faster.
 
 <div class="post-image">
 <img src="/assets/marketing/steam_description_survive_02.gif" />
 </div>
 
-__SURVIVE__ many dangers, use your skills and upgrades to complete The Mission.
+__SURVIVE__ many dangers, use your skills and your upgraded ship to complete The Mission.
 </details>
 
 <details  markdown="1">
@@ -86,9 +146,7 @@ __SURVIVE__ many dangers, use your skills and upgrades to complete The Mission.
 * Tier 1: Coal LLC & Bore Blasters (<1000 reviews)
 * Tier 0: ~150 reviews.
 
-Ship Miner showed potential to be over Tier 1, which will surpass 200k of net revenue.
-
-Here are some of the promising results on social networks, which could be multiplied doing better marketing on other platforms.
+Ship Miner showed potential to be in a good tier, here are some of the promising results on social networks, which could be multiplied doing better marketing on other platforms.
 
 <div class="post-image">
 <a href="/assets/pitchdeck/shipminer-besttweet-2024_01.png">
@@ -114,7 +172,8 @@ Here are some of the promising results on social networks, which could be multip
 <details  markdown="1">
   <summary class="title">What I need from a Publisher</summary>
 
-* Funding & Marketing
+* Marketing
+* Last mile funding
 * Localization support
 * After PC release:
   - Console port support (get dev kits + stores access)
@@ -128,7 +187,6 @@ Here are some of the promising results on social networks, which could be multip
 * 50K - 65K USD total
 * After PC release
   - 15k for getting Nintendo Switch, Xbox and Playstation dev kits + porting
-
 
 * Note: this is the budget doesn't consider previously invested money
 
