@@ -21,7 +21,7 @@ list_title: Home
 <img src="/assets/marketing/header.png" />
 </div>
 
-1-bit Pixel Art twin stick miner game in space. Explore asteroids and collect minerals, survive threats and improve your ship. Face a magnificent danger to save the universe.
+Ship Miner is an action roguelike about mining asteroids. It can be played single or local co-op for up to 4 players. It has a relaxing atmosphere with a unique retro art style and it is inspired by games like [Dome Keeper](https://store.steampowered.com/app/1637320/Dome_Keeper/) and [Kingdom: Classic](https://store.steampowered.com/app/368230/Kingdom_Classic/).
 
 <!-- div class="post-image">
 <video controls>

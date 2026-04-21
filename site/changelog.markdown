@@ -5,6 +5,55 @@ title: Changelog
 
 Release notes history
 
+0.7.11 - Local Co-op Fixes
+
+* Added: support for continue game when playing multiplayer.
+* Added: different ships and ui icons for each play.
+* Fixed: keep each ship progress after travel when playing local multiplayer (can't continue co-op savegame yet)
+* Fixed: removed camera audio listener when playing local multiplayer. 
+* Fixed: in co-op friendly ships were not respawning in the location of the ship debris if pushed (note: can push debris to other locations and then respawn friends).
+* Fixed: repair drone wasn't repairing anything.
+* Fixed: minerals were multiplied when playing local co-op and jumping to next asteroid.
+* Fixed: anomalies attacking ship debris in co-op.
+* Fixed: "single" multiplayer game was overriding singleplayer savegame. 
+* Fixed: blueprints now apply correctly to all players when picking them in local co-op 
+
+0.7.10 - Local Co-op
+
+* Added: Local co-op support to play with friends and family, but for now is a WIP, not done, and might not even be part of the game in the future but I wanted to play the game with my kids xD
+* Changed: increased scout drone vision range and renamed to Mineral Scout to make his main task more clear.
+* Changed: increased hp for all drones.
+* Changed: increased repair drone search distance and fixed to consider all damaged allies. 
+* Changed: UI for ship health moved to the center of the screen at the bottom.
+* Changed: trying a new input configuration for gamepad dpad ui navigation to see if it improves some gamepads ui nav issues (xbox wireless controller, I am looking at you right now).
+* Changed: important items now reveal vision once discovered, also emit particles and in some cases have some additional sfx in order to help finding them. 
+* Changed: enemies can't attack the drones factory now.
+* Known issue: when playing coop only first player progress is kept after travel to next asteroid
+
+0.7.9 - Experience
+
+* Changed: changed to use FMOD instead of unity default audio system, this will help in the future to have a better audio experience. 
+
+0.7.8 - Quality Of Life
+
+* Added: show saved asteroid information in continue button.
+* Added: ship teleport in/out sfx when coming to asteroid and leaving.
+* Changed: added again the try again button when ship destroyed, it restarts the level with all savegame data.
+* Changed: continue game will start in the same asteroid when quit was selected.
+* Changed: increased mining speed stat max levels to 8 and increment per level to 20% from 15%.
+
+0.7.7 - Destination Selection - First Pass
+
+* Added: now player can select next destinations in stargate.
+* Added: current asteroid info in pause menu.
+* Changed: more performance improvements.
+* Changed: increased anomaly damage and accuracy, and separated a bit difficulty per anomaly level.
+* Changed: reduced hull improvement costs but now it also uses scrap.
+* Changed: increased miner drones mining speed and now they don't have friendly fire.
+* Fixed: gamepad rumble on ship damaged.
+* Fixed: don't show gamehud error feedback when stat at max level.
+* Fixed: properly select first stat when tech menu is open for the first time. 
+
 0.7.6
 
 * Added: now some asteroids can be inverted which are more like caves in some way giving a different exploration.
