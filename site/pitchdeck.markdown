@@ -145,9 +145,8 @@ __SURVIVE__ many dangers, use your skills and your upgraded ship to complete The
 * Tier 3: Dome Keeper (20k reviews)
 * Tier 2: Wall World & Drill Core (>2000 reviews)
 * Tier 1: Coal LLC & Bore Blasters (<1000 reviews)
-* Tier 0: ~150 reviews.
 
-Ship Miner showed potential to be above Tier 1, here are some of the promising results on social networks, which could be multiplied doing better marketing on other platforms.
+Ship Miner showed potential to be in a good tier, here are some of the promising results on social networks, which could be multiplied doing better marketing.
 
 <div class="post-image">
 <a href="/assets/pitchdeck/shipminer-besttweet-2024_01.png">
