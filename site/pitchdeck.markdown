@@ -16,14 +16,11 @@ description: Pitch Deck
 <div class="glide">
   <div class="glide__track" data-glide-el="track">
     <ul class="glide__slides">
-      <li class="glide__slide"><video controls width="100%" autoplay="autoplay" muted="muted">
-  <source src="/assets/pitchdeck/shipminer-medium-gameplay-720p30fps.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video></li>
-      <li class="glide__slide">
-      <div class="post-image">
-<img src="/assets/pitchdeck/shipminer-coop-gameplay.gif" />
-</div></li>
+      <li class="glide__slide"><div class="post-image"><img src="/assets/pitchdeck/shipminer-gameplay_02.gif" /></div></li>
+      <li class="glide__slide"><div class="post-image"><img src="/assets/pitchdeck/shipminer-coop-gameplay.gif" /></div></li>
+      <li class="glide__slide"><div class="post-image"><img src="/assets/pitchdeck/shipminer-gameplay_01.gif" /></div></li>
+      <li class="glide__slide"><div class="post-image"><img src="/assets/pitchdeck/shipminer-gameplay_03.gif" /></div></li>
+      <li class="glide__slide"><div class="post-image"><img src="/assets/pitchdeck/shipminer-gameplay_04.gif" /></div></li>
       <!-- li class="glide__slide">
 <h1>Selling Points</h1>
 <div>
@@ -52,6 +49,8 @@ description: Pitch Deck
     <button class="glide__bullet" data-glide-dir="=0"></button>
     <button class="glide__bullet" data-glide-dir="=1"></button>
     <button class="glide__bullet" data-glide-dir="=2"></button>
+    <button class="glide__bullet" data-glide-dir="=3"></button>
+    <button class="glide__bullet" data-glide-dir="=4"></button>
   </div>
 
 </div>
@@ -72,7 +71,7 @@ description: Pitch Deck
 </video> 
 </div -->
 
-<details  markdown="1" open>
+<details  markdown="1">
   <summary class="title">Elevator Pitch </summary>
 
 Ship Miner is an action roguelike about mining asteroids. It has a relaxing atmosphere with a unique retro art style and it is inspired by games like [Dome Keeper](https://store.steampowered.com/app/1637320/Dome_Keeper/) and [Kingdom: Classic](https://store.steampowered.com/app/368230/Kingdom_Classic/).
@@ -82,6 +81,8 @@ The game provides an immersive experience that builds up on player's imagination
 It appeals to the nostalgia for old games with its visuals while supporting modern controls, mechanics and audio, to try to connect different generations (I play with my kids for example).
 
 It can be played single or local co-op for up to 4 players. 
+
+__NOTE: The plan and budget could be discussed and adjusted.__
 
 </details>
 
@@ -96,7 +97,7 @@ It can be played single or local co-op for up to 4 players.
 * Controls: Gamepad (twin stick) preferred, includes keyboard+mouse support.
 * Price: Targeting to $9.99 on full release and $4.99 during early access.
 * Target Release: Early Access in Q3 2026 and 1.0 in 2027
-* Target Gameplay time: >20 hours.
+* Target Gameplay time: 20 hours.
 * Platforms: Steam Deck + PC (Steam) first and Consoles later.
 * Engine: Unity 
 * Development Stage: Alpha
@@ -146,7 +147,7 @@ __SURVIVE__ many dangers, use your skills and your upgraded ship to complete The
 * Tier 1: Coal LLC & Bore Blasters (<1000 reviews)
 * Tier 0: ~150 reviews.
 
-Ship Miner showed potential to be in a good tier, here are some of the promising results on social networks, which could be multiplied doing better marketing on other platforms.
+Ship Miner showed potential to be above Tier 1, here are some of the promising results on social networks, which could be multiplied doing better marketing on other platforms.
 
 <div class="post-image">
 <a href="/assets/pitchdeck/shipminer-besttweet-2024_01.png">
@@ -172,11 +173,10 @@ Ship Miner showed potential to be in a good tier, here are some of the promising
 <details  markdown="1">
   <summary class="title">What I need from a Publisher</summary>
 
-* Marketing
-* Last mile funding
+* Marketing to multiply visibility  
+* Funding for the last part of development
 * Localization support
-* After PC release:
-  - Console port support (get dev kits + stores access)
+* Console port support (get dev kits + stores access)
 </details>
 
 <details  markdown="1">
@@ -184,11 +184,9 @@ Ship Miner showed potential to be in a good tier, here are some of the promising
 
 * 50k USD for 12 months of development until full release 
 * 5k USD more Music and SFX
-* 50K - 65K USD total
-* After PC release
-  - 15k for getting Nintendo Switch, Xbox and Playstation dev kits + porting
+* 15k for getting Nintendo Switch, Xbox and Playstation dev kits + porting
 
-* Note: this is the budget doesn't consider previously invested money
+_Note: this budget doesn't cover previously invested money_
 
 </details>
 
@@ -250,8 +248,9 @@ The GMC has a plan, to build a device that can stop the threat but needs lots of
 
 SPOILERS: In the end the GMC wanted to harness the full power of The Anomaly with this new device and they were in fact the reason The Anomaly appeared in the first place, so there is kinda of a paradox.
 
-* Narrative in the game is implicit in order for the player to imagine its own story behind everything, but there will be some information from time to time to help connecting dots and filling blanks.
-* Game is inspired by books like Foundation, Dune and the Expanse, among others.
+_Note: Narrative in the game is implicit in order for the player to imagine its own story behind everything, but there will be some information from time to time to help connecting dots and filling blanks._
+
+_Note: Game is inspired by books like Foundation, Dune and the Expanse, among others._
 
 </details>
 
