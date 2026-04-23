@@ -179,11 +179,11 @@ Ship Miner showed potential to be in a good tier, here are some of the promising
 </details>
 
 <details  markdown="1">
-  <summary class="title">Budget</summary>
+  <summary class="title">Last mile Budget</summary>
 
 * 50k USD for 12 months of development until full release 
 * 5k USD more Music and SFX
-* 15k for getting Nintendo Switch, Xbox and Playstation dev kits + porting
+* 20k for getting Nintendo Switch, Xbox and Playstation dev kits + in-house porting
 
 _Note: this budget doesn't cover previously invested money_
 
