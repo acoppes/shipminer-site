@@ -156,6 +156,7 @@ Example links:
 * [Reddit cozy post (recent)](https://www.reddit.com/r/IndieDev/comments/1ssnx58/comment/ohppc4a/)
 * [Twitter local coop tease](https://x.com/arielsan/status/2040058282581107058)
 * [Reddit pixelart post](https://www.reddit.com/r/PixelArt/comments/17p7390/i_am_a_solodev_making_a_pixelart_1bit_space/)
+* [Threads playtest announcement](https://www.threads.com/@ariel_coppes/post/DMSkG2BKhfI)
 
 </details>
 
