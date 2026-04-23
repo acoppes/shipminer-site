@@ -86,8 +86,6 @@ It appeals to the nostalgia for old games with its visuals while supporting mode
 
 It can be played single or local co-op for up to 4 players. 
 
-__NOTE: The plan and budget could be discussed and adjusted.__
-
 </details>
 
 <details  markdown="1">
