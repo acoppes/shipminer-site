@@ -20,8 +20,10 @@ description: Pitch Deck
       <li class="glide__slide"><div class="post-image"><img src="/assets/pitchdeck/shipminer-coop-gameplay.gif" /></div></li>
       <li class="glide__slide"><div class="post-image"><img src="/assets/pitchdeck/shipminer-gameplay_01.gif" /></div></li>
       <li class="glide__slide"><div class="post-image"><img src="/assets/pitchdeck/shipminer-gameplay_03.gif" /></div></li>
-      <li class="glide__slide"><div class="post-image"><img src="/assets/pitchdeck/shipminer-gameplay_04.gif" /></div></li>
-      <!-- li class="glide__slide">
+      <li class="glide__slide"><div class="post-image"><img src="/assets/pitchdeck/shipminer-gameplay_04.gif" /></div></li>      
+      <li class="glide__slide"><div class="post-image"><img src="/assets/pitchdeck/shipminer-besttweet-2024_01.png"/></div></li>      
+      <li class="glide__slide"><div class="post-image"><img src="/assets/pitchdeck/shipminer-marketing-reddit.png" width="75%"/></div></li>      
+<!-- li class="glide__slide">
 <h1>Selling Points</h1>
 <div>
 <ul>
@@ -51,6 +53,8 @@ description: Pitch Deck
     <button class="glide__bullet" data-glide-dir="=2"></button>
     <button class="glide__bullet" data-glide-dir="=3"></button>
     <button class="glide__bullet" data-glide-dir="=4"></button>
+    <button class="glide__bullet" data-glide-dir="=5"></button>
+    <button class="glide__bullet" data-glide-dir="=6"></button>
   </div>
 
 </div>
@@ -148,17 +152,13 @@ __SURVIVE__ many dangers, use your skills and your upgraded ship to complete The
 
 Ship Miner showed potential to be in a good tier, here are some of the promising results on social networks, which could be multiplied doing better marketing.
 
-<div class="post-image">
-<a href="/assets/pitchdeck/shipminer-besttweet-2024_01.png">
-<img src="/assets/pitchdeck/shipminer-besttweet-2024_01.png" width="550px"/>
-</a>
-</div>
+Example links:
+ 
+* [Twitter algorithm update trend](https://x.com/arielsan/status/1789789080370258069)
+* [Reddit cozy post (recent)](https://www.reddit.com/r/IndieDev/comments/1ssnx58/comment/ohppc4a/)
+* [Twitter local coop tease](https://x.com/arielsan/status/2040058282581107058)
+* [Reddit pixelart post](https://www.reddit.com/r/PixelArt/comments/17p7390/i_am_a_solodev_making_a_pixelart_1bit_space/)
 
-<div class="post-image">
-<a href="/assets/pitchdeck/moonminer-pixelartreddit.png">
-<img src="/assets/pitchdeck/moonminer-pixelartreddit.png" width="550px"/>
-</a>
-</div>
 </details>
 
 <details  markdown="1">
