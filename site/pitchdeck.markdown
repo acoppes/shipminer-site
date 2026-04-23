@@ -94,7 +94,7 @@ It can be played single or local co-op for up to 4 players.
 * Name: Ship Miner
 * Genre: Roguelike, Action, Strategy
 * Type: Relaxing, Mining, Strategic Combat
-* Studio: Pixel Core Games (1 developer)
+* Studio: Pixel Core Games
 * Players: 1-4 players.
 * Controls: Gamepad (twin stick) preferred, includes keyboard+mouse support.
 * Price: Targeting to $9.99 on full release and $4.99 during early access.
