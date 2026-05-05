@@ -104,6 +104,7 @@ It can be played single or local co-op for up to 4 players.
 * Engine: Unity 
 * Development Stage: Alpha
 * Public Demo and Private Playtest available.
+* [Steam Link](https://store.steampowered.com/app/3113690/Ship_Miner/)
 
 </details>
 
