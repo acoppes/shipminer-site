@@ -75,7 +75,7 @@ description: Pitch Deck
 </video> 
 </div -->
 
-<details  markdown="1">
+<details  markdown="1" open>
   <summary class="title">Elevator Pitch </summary>
 
 Ship Miner is an action roguelike about mining asteroids. It has a relaxing atmosphere with a unique retro art style and it is inspired by games like [Dome Keeper](https://store.steampowered.com/app/1637320/Dome_Keeper/) and [Kingdom: Classic](https://store.steampowered.com/app/368230/Kingdom_Classic/).
@@ -88,7 +88,7 @@ It can be played single or local co-op for up to 4 players.
 
 </details>
 
-<details  markdown="1">
+<details  markdown="1" open>
   <summary class="title">Summary</summary>
 
 * Name: Ship Miner
@@ -182,8 +182,8 @@ Example links:
   <summary class="title">Last mile Budget</summary>
 
 * 50k USD for 12 months of development until full release 
-* 5k USD more Music and SFX
-* 20k for getting Nintendo Switch, Xbox and Playstation dev kits + in-house porting
+  - This includes budget for Music and SFX
+* Optional: 20k USD for getting Nintendo Switch, Xbox and Playstation dev kits + in-house porting
 
 _Note: this budget doesn't cover previously invested money_
 
