@@ -5,6 +5,16 @@ title: Changelog
 
 Release notes history
 
+0.7.12 - Content & Fixes
+
+* Added: Some new sound effects and reworked others (WIP).
+* Added: New song "Late Bloomer" in the OST
+* Added: Low on hp visual and audio alert.
+* Added: New auto repair stat upgrade.
+* Changed: Artifact assembly, artifact and artifact pieces visuals. 
+* Fixed: Can buy next stat indicator was showing + when it couldn't be purchased.
+* Fixed: Some internal when buying drones that might lead to other things working wrong.
+
 0.7.11 - Local Co-op Fixes
 
 * Added: support for continue game when playing multiplayer.
