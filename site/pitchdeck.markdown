@@ -202,7 +202,7 @@ _Note: this budget doesn't cover previously invested money_
 * 2026
   - Apr: < WE ARE HERE >
   - Oct: Steam Next Fest
-  - Nov: Early Access Release
+  - Nov 26: Early Access Release
 * 2027
   - Q2: Full release
 </details>
@@ -210,15 +210,16 @@ _Note: this budget doesn't cover previously invested money_
 <details  markdown="1">
   <summary class="title">Roadmap</summary>
 * Early Access
-  - More content (enemies, upgrades, ships)
+  - More technologies and upgrades.
+  - More enemies and other creeps in asteroids.
   - Localization 3 to 4 languages (english, spanish, japanese and portuguese)
   - Other game modes: sandbox (no enemies), custom (more/less difficulty, more/less minerals).
+  - Full mouse support (aiming)
 * Launch
   - Ship Selection (metagame progress, start better)
   - Achievements
   - Accessibility options
   - Localization more languages (chinese, etc)
-  - Full mouse support (aiming)
   - Retro visual effects (scanlines, crt, etc)
 </details>
 
