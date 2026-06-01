@@ -22,7 +22,8 @@ description: Pitch Deck
       <li class="glide__slide"><div class="post-image"><img src="/assets/pitchdeck/shipminer-gameplay_03.gif" /></div></li>
       <li class="glide__slide"><div class="post-image"><img src="/assets/pitchdeck/shipminer-gameplay_04.gif" /></div></li>      
       <li class="glide__slide"><div class="post-image"><img src="/assets/pitchdeck/shipminer-besttweet-2024_01.png"/></div></li>      
-      <li class="glide__slide"><div class="post-image"><img src="/assets/pitchdeck/shipminer-marketing-reddit.png" width="75%"/></div></li>      
+      <li class="glide__slide"><div class="post-image"><img src="/assets/pitchdeck/shipminer-marketing-reddit.png" width="75%"/></div></li>
+      <li class="glide__slide"><div class="post-image"><img src="/assets/pitchdeck/shipminer-marketing-twitter2.png" width="75%"/></div></li>            
 <!-- li class="glide__slide">
 <h1>Selling Points</h1>
 <div>
@@ -55,6 +56,7 @@ description: Pitch Deck
     <button class="glide__bullet" data-glide-dir="=4"></button>
     <button class="glide__bullet" data-glide-dir="=5"></button>
     <button class="glide__bullet" data-glide-dir="=6"></button>
+     <button class="glide__bullet" data-glide-dir="=7"></button>
   </div>
 
 </div>
