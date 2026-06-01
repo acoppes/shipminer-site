@@ -23,7 +23,7 @@ description: Pitch Deck
       <li class="glide__slide"><div class="post-image"><img src="/assets/pitchdeck/shipminer-gameplay_04.gif" /></div></li>      
       <li class="glide__slide"><div class="post-image"><img src="/assets/pitchdeck/shipminer-besttweet-2024_01.png"/></div></li>      
       <li class="glide__slide"><div class="post-image"><img src="/assets/pitchdeck/shipminer-marketing-reddit.png" width="75%"/></div></li>
-      <li class="glide__slide"><div class="post-image"><img src="/assets/pitchdeck/shipminer-marketing-twitter2.png" width="75%"/></div></li>            
+      <li class="glide__slide"><div class="post-image"><img src="/assets/pitchdeck/shipminer-marketing-twitter2.png" width="50%"/></div></li>            
 <!-- li class="glide__slide">
 <h1>Selling Points</h1>
 <div>
