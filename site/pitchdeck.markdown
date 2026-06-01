@@ -212,14 +212,14 @@ _Note: this budget doesn't cover previously invested money_
 * Early Access
   - More technologies and upgrades.
   - More enemies and other creeps in asteroids.
-  - Localization 3 to 4 languages (english, spanish, japanese and portuguese)
+  - Localization 3 to 4 languages (english, spanish, japanese and chinese)
   - Other game modes: sandbox (no enemies), custom (more/less difficulty, more/less minerals).
   - Full mouse support (aiming)
 * Launch
   - Ship Selection (metagame progress, start better)
   - Achievements
   - Accessibility options
-  - Localization more languages (chinese, etc)
+  - Localization more languages
   - Retro visual effects (scanlines, crt, etc)
 </details>
 
