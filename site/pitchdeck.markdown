@@ -156,6 +156,7 @@ Ship Miner showed potential to be in a good tier, here are some of the promising
 Example links:
  
 * [Twitter algorithm update trend](https://x.com/arielsan/status/1789789080370258069)
+* [Twitter "the vibe of my game" trend](https://x.com/arielsan/status/2058674364321567103)
 * [Reddit cozy post (recent)](https://www.reddit.com/r/IndieDev/comments/1ssnx58/comment/ohppc4a/)
 * [Twitter local coop tease](https://x.com/arielsan/status/2040058282581107058)
 * [Reddit pixelart post](https://www.reddit.com/r/PixelArt/comments/17p7390/i_am_a_solodev_making_a_pixelart_1bit_space/)
@@ -202,11 +203,11 @@ _Note: this budget doesn't cover previously invested money_
   - Jul: Private Playtest
   - Sep: Demo
 * 2026
-  - Apr: < WE ARE HERE >
+  - Jun: < WE ARE HERE >
   - Oct: Steam Next Fest
   - Nov 26: Early Access Release
 * 2027
-  - Q2: Full release
+  - Q3 - Q4: Full release
 </details>
 
 <details  markdown="1">
