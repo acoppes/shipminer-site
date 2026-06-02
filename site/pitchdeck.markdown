@@ -80,7 +80,7 @@ description: Pitch Deck
 <details  markdown="1" open>
   <summary class="title">Elevator Pitch </summary>
 
-Ship Miner is an action roguelike about mining asteroids. It has a relaxing atmosphere with a unique retro art style and it is inspired by games like [Dome Keeper](https://store.steampowered.com/app/1637320/Dome_Keeper/) and [Kingdom: Classic](https://store.steampowered.com/app/368230/Kingdom_Classic/).
+Ship Miner is an action game about mining asteroids. It has roguelike elements and a relaxing atmosphere with a unique retro art style and it is inspired by games like [Dome Keeper](https://store.steampowered.com/app/1637320/Dome_Keeper/) and [Kingdom: Classic](https://store.steampowered.com/app/368230/Kingdom_Classic/).
 
 The game provides an immersive experience that builds up on player's imagination. 
 
