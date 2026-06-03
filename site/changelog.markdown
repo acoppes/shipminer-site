@@ -5,6 +5,40 @@ title: Changelog
 
 Release notes history
 
+0.7.15 - Demo Update
+
+* Added: now ui scale can be configured separately from the game scale.
+* Changed: react to mouse over to autoselect upgrade or tech and improved scroll sensitivity in for those menus.
+* Changed: adjusted stargate position for starting asteroid to try to make the ship don't hit the asteroid on spawn.
+* Fixed: mouse autoselect object while scrolling with keyboard.
+
+0.7.14 - Content & Fixes
+
+* Changed: rebalance asteroid minerals per asteroid.
+* Changed: ship stat upgrades cost re balance from previous change.
+* Changed: can't jump to big asteroids from initial (tiny) one.
+* Fixed: wrong stat selected on open stat window and try to recover vertical scroll location after open animation.
+* Fixed: game mode selection when using mouse wasn't reacting properly and scrollbar was disabled.
+* Fixed: ui elements sfx feedback when mouse over or clicked
+* Fixed: cave asteroids generation was a bit broken and generating a lot of terrain more than normal asteroids.
+* Fixed: small bug difference on spawning iron from terrain.
+* Fixed: extra ray tech was sometimes in the wrong position.
+* Fixed: adjusted some ui mouse vs gamepad/keyboard navigation issues, still have some others to work on.
+
+0.7.13 - Content & Fixes
+
+* Added: new tech right and left rays.
+* Added: more placeholder (not in demo) drones, and changed some names and description there.
+* Changed: initial asteroid is always tiny and has more minerals.
+* Changed: duplicated gold generation but duplicated stats costs.
+* Fixed: repair drone was repairing itself.
+* Fixed: repair drone was repairing the explosive cracks.
+* Fixed: pushback close to world bounds was leaving the ship outside the world.
+* Fixed: miner drone can't be pushed inside the asteroid now, also it has new visuals.
+* Fixed: destinations were always tiny or small.
+* Fixed: flickering was too fast when super low on health.
+* Fixed: bug when traveling to the last asteroids.
+
 0.7.12 - Content & Fixes
 
 * Added: Some new sound effects and reworked others (WIP).
