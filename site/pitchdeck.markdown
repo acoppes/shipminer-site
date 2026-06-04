@@ -100,7 +100,7 @@ It can be played single or local co-op for up to 4 players.
 * Players: 1-4 players.
 * Controls: Gamepad (twin stick) preferred, includes keyboard+mouse support.
 * Price: Targeting to $9.99 on full release and $4.99 during early access.
-* Target Release: Early Access in Q3 2026 and 1.0 in 2027
+* Target Release: Early Access in Q4 2026 and 1.0 in 2027
 * Target Gameplay time: 20 hours.
 * Platforms: Steam Deck + PC (Steam) first and Consoles later.
 * Engine: Unity 
@@ -166,7 +166,7 @@ Example links:
 
 <details  markdown="1">
   <summary class="title">Stats</summary>
-* 4k wishlists
+* 5k wishlists
 * 350 active play testers
 * 1.5h average time played and 30m of median playtime.
 * 10% of players playing 3+ hours 
