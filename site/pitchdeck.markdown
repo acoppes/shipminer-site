@@ -99,7 +99,7 @@ It can be played single or local co-op for up to 4 players.
 * Studio: Pixel Core Games
 * Players: 1-4 players.
 * Controls: Gamepad (twin stick) preferred, includes keyboard+mouse support.
-* Price: Targeting to $9.99 on full release and $4.99 during early access.
+* Price: Targeting to $9.99 on full release and $6.99 during early access.
 * Target Release: Early Access in Q4 2026 and 1.0 in 2027
 * Target Gameplay time: 20 hours.
 * Platforms: Steam Deck + PC (Steam) first and Consoles later.
