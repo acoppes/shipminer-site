@@ -130,12 +130,14 @@ __SURVIVE__ many dangers, use your skills and your upgraded ship to complete The
 <details  markdown="1">
   <summary class="title">Selling Points</summary>
   
-* Motivate player's imagination with a unique retro art style.
-* Immersive experience, controls and music maximize it.
+* Encourage player's imagination with a unique retro art style.
+* Immersive experience maximized by controls and music.
 * High replay value:
   - Each run is different (generated asteroids, different technologies and encounters).
   - Content like tech, ships, enemies, multiply game time.
   - Content that change Gameplay (example: technology that change how to mine the asteroid).
+* Exploration over explanation, discover the game by yourself.
+
 </details>
 
 <details  markdown="1">
@@ -166,7 +168,7 @@ Example links:
 
 <details  markdown="1">
   <summary class="title">Stats</summary>
-* 6k wishlists
+* 7k wishlists
 * 350 active play testers
 * 1.5h average time played and 30m of median playtime.
 * 10% of players playing 3+ hours 
