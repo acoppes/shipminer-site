@@ -21,7 +21,7 @@ list_title: Home
 <img src="/assets/marketing/header.png" />
 </div>
 
-Ship Miner is an action roguelike about mining asteroids. It can be played single or local co-op for up to 4 players. It has a relaxing atmosphere with a unique retro art style and it is inspired by games like [Dome Keeper](https://store.steampowered.com/app/1637320/Dome_Keeper/) and [Kingdom: Classic](https://store.steampowered.com/app/368230/Kingdom_Classic/).
+Ship Miner is an action roguelike about mining asteroids. It can be played single or local co-op for up to 4 players. It has a relaxing atmosphere with a unique retro art style that encourages imagination. It is inspired by games like [Dome Keeper](https://store.steampowered.com/app/1637320/Dome_Keeper/) and [Kingdom: Classic](https://store.steampowered.com/app/368230/Kingdom_Classic/).
 
 <!-- div class="post-image">
 <video controls>
@@ -40,12 +40,17 @@ Play as a miner, traveling in your ship from asteroid to asteroid to find and co
 -->
 
 <div class="post-image">
+<iframe width="711" height="400" src="https://www.youtube.com/embed/dRrtEEjiSPE?&autoplay=1&vq=hd2160" frameborder="0" allowfullscreen></iframe>
+<span>Early Access Announcement Trailer</span>
+</div>
+
+<!-- div class="post-image">
 <video controls width="100%" autoplay="autoplay" muted="muted">
   <source src="/assets/videos/shipminer-demo-announcement-rc1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video> 
 <span><a href="https://store.steampowered.com/app/3113690/Ship_Miner?utm_source=homepage&utm_campaign=announcement">PLAY THE DEMO NOW!</a></span>
-</div>
+</div -->
 
 __EXPLORE AND MINE__ procedural generated asteroids to collect minerals, scraps, blueprints and more.
 
@@ -102,8 +107,9 @@ You can Wishlist the game on Steam and get notified when the game is Released.
 <div class="post-image">
   <h1>AWARDS</h1>
 <a href="https://cavi.uy/conavi/">
-<img src="/assets/uruguayan-game-awards-innovation-badge-small.png" />
-<img src="/assets/uruguay-game-awards-indie-rising-star-2024-finalist.png" />
+<img src="/assets/uruguayan-game-awards-innovation-badge-small.png" width="300px"/>
+<!-- img src="/assets/uruguay-game-awards-indie-rising-star-2024-finalist.png" width="300px"/ -->
+<img src="/assets/lags-officialselection-2026-badge.png" width="400px" />
 </a>
 </div>
 
