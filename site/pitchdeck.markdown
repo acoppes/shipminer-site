@@ -168,7 +168,7 @@ Example links:
 
 <details  markdown="1">
   <summary class="title">Stats</summary>
-* 7k wishlists
+* 8k wishlists
 * 350 active play testers
 * 1.5h average time played and 30m of median playtime.
 * 10% of players playing 3+ hours 
