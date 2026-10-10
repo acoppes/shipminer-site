@@ -2,9 +2,8 @@
 <product>
   <title>Ship Miner</title>
 
-
   <release-dates>
-    <release-date>TBA</release-date>
+    <release-date>Steam - Early Access - 26 Nov, 2026</release-date>
   </release-dates>
 
   <website>https://shipminer.arielcoppes.dev</website>
@@ -21,15 +20,17 @@
 
   <prices>
     <price>
-      <currency></currency>
-      <value>TBA</value>
+      <currency>USD</currency>
+      <value>6.99</value>
     </price>
   </prices>
 
-  <description>1-bit Pixel Art twin stick miner game in space. Explore asteroids and collect minerals, survive threats and improve your ship. Face a magnificent danger and save the galaxy.</description>
+  <description>
+  1-bit Pixel Art twin stick miner game in space. Explore asteroids and collect minerals, survive threats and improve your ship. Face a magnificent danger and save the galaxy.
+  </description>
 
   <!-- Choose between a single block: -->
-  <history>Play as a miner, traveling in your ship from asteroid to asteroid to find and collect the most important and valuable minerals. Survive attacks from an unknown and mysterious threat that is putting all existence in danger. Improve your ship and build the ultimate artifact to save the galaxy and all living beings with it. You might die but another miner will continue your mission.</history>
+  <history>An unknown menace identified as The Anomaly is threatening the galaxy. Travel through the galaxy, explore asteroids and find and collect valuable minerals and lost technology. But hurry up before The Anomaly manifest in your asteroid, engage or escape, your choice. Use your minerals and technologies to prepare to face and defeat The Anomaly once you are ready.</history>
 
   <!-- Or multiple blocks: -->
   <!--
@@ -42,9 +43,11 @@
   -->
 
   <features>
-    <feature>1-bit Pixel Art Retro Style</feature>
-    <feature>Modern twin stick gamepad controls</feature>
+    <feature>Exploration</feature>
+    <feature>Nostalgia + Retro Aesthetics</feature>
     <feature>Procedural Generation</feature>
+    <feature>Modern twin stick gamepad controls</feature>
+    <feature>Languages: English, Spanish, Japanese, Simplified Chinese, Russian and Portuguese</feature>
   </features>
 
   <trailers>
@@ -62,14 +65,17 @@
 
   <!-- You can set your widgets here (optional): -->
   <widgets>
-    <steam>
-      <!-- Steam ID -->
-      <!-- e.g. 424242 -->
-      3113690
-    </steam>
+    <steam>3113690</steam>
+    <itch>3894882</itch>
   </widgets>
 
   <awards>
+
+    <award>
+      <description>Official Selection 2026</description>
+      <info>Latin American Games Showcase</info>
+    </award>
+
     <award>
       <description>Winner Innovation</description>
       <info>Uruguayan Games Awards 2024</info>
