@@ -5,6 +5,123 @@ title: Changelog
 
 Release notes history
 
+0.8.6.2 - Fixes
+
+* Added: Japanese(日本語) language support.
+* Changed: trying to make terrain more diverse with small terrain and attachments variants.
+* Fixed: some internal bugs with path finding calculations edge cases.
+
+0.8.6.1 - Fixes
+
+* Fixed: amount texts for mineral density.
+* Fixed: asteroid generation was considering some unused internal modifiers.
+
+0.8.6 - Preparing for Demo Update
+
+* Added: Simplified Chinese (中文) language support.
+* Added: game auto pauses if gamepad was disconnected.
+* Added: game auto pauses if steam overlay is opened.
+* Added: open menu button redundancy with "west" button at least while no keymapping available.
+* Changed: local coop player join now can open menu to go back and can select next asteroid normally.
+* Changed: local coop runs can't be continued for now, but can be restarted if all ships destroyed during run.
+* Fixed: leave asteroid text wasn't localized.
+
+0.8.5 - First Run Experience & Metagame unlocks
+
+* Added: metagame unlocks for double rays and bomber ships.
+* Changed: first play goes directly to game without showing mode nor ship hangar.
+* Changed: don't show the game mode selection the first time.
+* Changed: moved some in-game notifications over ship to be in hud.
+* Changed: removed ship selection in-game texts and changed to select asteroid.
+* Changed: anomaly cores are now dark matter and all enemies spawn dark matter.
+* Changed: dark matter is now required to build stations too.
+* Fixed: show current run statistics in game stats in main menu.
+* Fixed: outcome window wrong text.
+* Fixed: demo complete text container to fit more text.
+* Fixed: anomalies can't attack holders now.
+
+0.8.4 - Unlock game content during runs
+
+* Added: new window to select technologies to unlock from different options.
+* Added: adding popup tutorials first time a new station or tech is unlocked.
+* Changed: Now technologies are installed in the main base/stargate/mothership (still defining the name).
+* Changed: now picking up a blueprint shows the unlocks window
+* Changed: separated options for graphics from the gameplay options.
+* Changed: increased bomber turret to have range 15 instead of 10
+* Changed: removed anomaly explosion damage on death.
+
+0.8.3 - Localization Support + Spanish
+
+* Added: select language UI in game options.
+* Added: started adding spanish version of the Game.
+* Added: credits screen inside options menu.
+* Added: autodetect language from steam and or system.
+* Fixed: show only found technologies in outcome window.
+
+0.8.2 - Space Stations
+
+* Added: station holders to build other stations.
+* Added: mining station that automatically spawns mining drones.
+* Added: repair station that automatically spawns repair drones.
+* Added: bomber station that automatically attacks enemies. 
+* Added: scan station that automatically spawns explorer drones. 
+* Changed: can't steal minerals from enemy miners unless they are destroyed.
+* Changed: removed scrap repair factor (temporary test now that there is a repair station, etc), but added base auto repair factor.
+* Removed: (temporary) removed the drones factories.
+* Fixed: tremble device was spawning infinite sfx.
+
+0.8.1 - Different Ships
+
+* Added: New Driller Ship (wip)
+* Changed: New visuals for Bomber Ship.
+* Fixed: First level didn't have enough neutrinium cores to travel.
+* Fixed: Gamepad rumble didn't stop when opening in-game menu.
+* Fixed: Anomaly continued attacking the last target position.
+* Fixed: Bug with some windows not properly opened/visible if the animation didn't complete (low fps or alt tab, etc)
+* Fixed: Upgrades buttons focus lost when reopening tech menu a second time.
+
+0.8.0 - Different Ships
+
+* Added: Added Ship Selection Screen (wip)
+* Added: New Double Ray Ship (wip)
+* Added: New Projectiles Ship (wip)
+* Added: gamepad disclaimer is only shown once.
+* Added: anomaly spawns attack ships.
+* Added: accessibility option to disable screen flashes
+* Changed: internal changes to support different ship types.
+* Changed: added vision range to stargate to find it on fog regen levels.
+* Fixed: issue with some ui windows sometimes not showing.
+* Fixed: strange edge case when animating the fog of war where animation frame was outside bounds.
+* Fixed: radio ui song name doesn't fit.
+
+0.7.18 - First experience improvements.
+
+* Added: ship can be moved with right mouse button now, and interact with middle button (no instructions for now)
+* Changed: reduced a bit the drones cost.
+* Changed: asteroid generation now tries to grow in resistance faster.
+* Changed: reduced a bit how anomalies progress over levels and reduced the number of spawns (wip)
+* Fixed: gamehud wasn't opening again after disabling autohide.
+* Fixed: asteroid selection popup wasn't working with mouse. 
+* Fixed: try to fix strange mouse cursor behaviour in linux, I suppose it wasn't in pixel perfect positions so it looked weird.
+
+0.7.17 - Mouse & Better 4k monitor support
+
+* Added: initial version for mouse support to aim the mining ray. 
+* Changed: separated audio and gameplay options, mainly to start separating in smaller windows for the future.
+* Changed: master volume is not 50% by default on first open.
+* Fixed: improved ui slider experience for mouse users.
+* Fixed: working in fixing game scale factors for high resolution screens, mainly 4k monitors.
+
+0.7.16 - UI Rework & Bug fixes
+
+* Added: options toggle to show/hide playtime timer (hidden by default)
+* Added: options toggle to autohide gamehud for a more immersive experience (disabled by default).
+* Changed: adjusted drones cost after adding more gold to asteroids. 
+* Changed: UI rework to use support new font to prepare for localization for the future.
+* Fixed: weird font artifacts after changing ui scale. 
+* Fixed: internals extra checks to try to catch some errors.
+* Fixed: player stats tech and upgrades count on complete game were not being saved properly.
+
 0.7.15 - Demo Update
 
 * Added: now ui scale can be configured separately from the game scale.
