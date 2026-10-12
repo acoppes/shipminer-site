@@ -23,6 +23,15 @@ list_title: screenshots
     <a href="/assets/screenshots/screenshot_05.png" target="_blank">
         <img src="/assets/screenshots/screenshot_05.png"  />
     </a>
+        <a href="/assets/screenshots/screenshot_06.png" target="_blank">
+        <img src="/assets/screenshots/screenshot_06.png"  />
+    </a>
+        <a href="/assets/screenshots/screenshot_07.png" target="_blank">
+        <img src="/assets/screenshots/screenshot_07.png"  />
+    </a>
+        <a href="/assets/screenshots/screenshot_08.png" target="_blank">
+        <img src="/assets/screenshots/screenshot_08.png"  />
+    </a>
 </div>
 
 
