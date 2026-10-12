@@ -23,52 +23,64 @@ list_title: Home
 
 Ship Miner is an action roguelike about mining asteroids. It can be played single or local co-op for up to 4 players. It has a relaxing atmosphere with a unique retro art style that encourages imagination. It is inspired by games like [Dome Keeper](https://store.steampowered.com/app/1637320/Dome_Keeper/) and [Kingdom: Classic](https://store.steampowered.com/app/368230/Kingdom_Classic/).
 
-<!-- div class="post-image">
-<video controls>
-  <source src="/assets/shipminer.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video> 
-</div 
-
-<div class="post-image">
-<img src="/assets/shipminer-mining-01.gif" />
-</div>-->
-
-<!--
-# About the game
-Play as a miner, traveling in your ship from asteroid to asteroid to find and collect the most important and valuable minerals. Survive attacks from an unknown and mysterious threat that is putting all existence in danger. Improve your ship and build the ultimate artifact and save the galaxy and all living beings with it. You might die, but another miner will continue your mission.
--->
-
 <div class="post-image">
 <iframe width="711" height="400" src="https://www.youtube.com/embed/dRrtEEjiSPE?&autoplay=1&vq=hd2160" frameborder="0" allowfullscreen></iframe>
 <span>Early Access Announcement Trailer</span>
 </div>
 
-<!-- div class="post-image">
-<video controls width="100%" autoplay="autoplay" muted="muted">
-  <source src="/assets/videos/shipminer-demo-announcement-rc1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video> 
-<span><a href="https://store.steampowered.com/app/3113690/Ship_Miner?utm_source=homepage&utm_campaign=announcement">PLAY THE DEMO NOW!</a></span>
-</div -->
+An unknown menace identified as The Anomaly is threatening the galaxy. Travel through the galaxy, explore asteroids and find and collect valuable minerals and lost technology. But hurry up before The Anomaly manifest in your asteroid, engage or escape, your choice. Use your minerals and technologies to prepare to face and defeat The Anomaly once you are ready.
 
-__EXPLORE AND MINE__ procedural generated asteroids to collect minerals, scraps, blueprints and more.
+## EXPLORE ASTEROIDS
+
+Travel to procedurally generated asteroids providing a unique experience on each asteroid jump or each run.
 
 <div class="post-image">
-<img src="/assets/marketing/steam_description_explore_02.gif" />
+<img src="/assets/marketing/steam_exploreonly_01.gif" />
 </div>
 
-__IMPROVE__ your ship using collected resources by choosing from a wide variety of upgrades like triple mining rays or healing drones.
+## COLLECT MINERALS
+
+Dig the asteroid with your mining devices to find and collect minerals and advanced blueprints to unlock new technologies and space stations.
 
 <div class="post-image">
-<img src="/assets/marketing/steam_description_improve_02.gif" />
+<img src="/assets/marketing/steam_collect_02.gif" />
 </div>
 
-__SURVIVE__ many dangers, from pirate ships to unknown threats from beyond The Anomaly, use your skills and upgrades to complete The Mission.
+## IMPROVE
+
+Use your minerals to improve your ship stats or install new technologies that change the gameplay.
 
 <div class="post-image">
-<img src="/assets/marketing/steam_description_survive_02.gif" />
+<img src="/assets/marketing/steam_improve_01.gif" />
 </div>
+
+## BUILD
+
+Build different space stations and drones to assist in your task, from improving your defenses to speed up the asteroid exploration, the choice is yours.
+
+<div class="post-image">
+<img src="/assets/marketing/steam_build_01.gif" />
+</div>
+
+## SURVIVE
+
+The asteroids are not safe, The Anomaly wants it and the minerals for itself and will appear and attack your ship and your base. Use your improvements, defend, attack or escape. You can try again in the next asteroid.
+
+<div class="post-image">
+<img src="/assets/marketing/steam_survive_01.gif" />
+</div>
+
+
+## Gameplay Description:
+
+Ship Miner is a an action miner game, you control a mining ship with your twin stick controller or with keyboard and have to explore and mine asteroids. You collect minerals and upgrade your ship, build a small base and select new destinations, and repeat. Enemies might appear in the asteroid to complicate things, engage them or flee, your choice. If destroyed you either restart from last save or start again from 0. The rest is up for the player to discover.
+
+### Key Features:
+
+* Exploration: No instructions. No help. No hand holding.
+* Nostalgia + Retro Aesthetics: For players with nostalgia for 80's and 90's games.
+* Randomly Generated Asteroids: Each travel and each run should offer new experiences.
+* Local COOP: Play and explore with your friends and family, if that's what you want.
 
 <!--div class="post-image">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-TovoWd7ou0?si=vqihGODUSFTCNVp6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
