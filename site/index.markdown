@@ -28,6 +28,11 @@ Ship Miner is an action roguelike about mining asteroids. It can be played singl
 <span>Early Access Announcement Trailer</span>
 </div>
 
+### LINKS
+
+* [STEAM](https://store.steampowered.com/app/3113690/Ship_Miner/)
+* [PRESSKIT](https://arielcoppes.dev/presskit/shipminer/index.html)
+
 An unknown menace identified as The Anomaly is threatening the galaxy. Travel through the galaxy, explore asteroids and find and collect valuable minerals and lost technology. But hurry up before The Anomaly manifest in your asteroid, engage or escape, your choice. Use your minerals and technologies to prepare to face and defeat The Anomaly once you are ready.
 
 ## EXPLORE ASTEROIDS
