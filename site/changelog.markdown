@@ -5,6 +5,66 @@ title: Changelog
 
 Release notes history
 
+0.8.7.5 - Fixes
+
+* Fixed: mouse interaction was being blocked in main menu
+
+0.8.7.4 - Fixes
+
+* Changed: asteroid selection confirm popup autoselects yes by default now.
+* Fixed: removed neutrinium core (battery) icon from game hud.
+* Fixed: show current song and play time in the pause menu.
+* Fixed: bug when opening ship menu from pause menu before ship spawned.
+
+0.8.7.3 - Fixes
+
+* Added: indicator pointing to the stargate once the asteroid is completed. 
+* Fixed: miners love artifact's aura and follow it forever and ever.
+
+0.8.7.2 - Fixes
+
+* Fixed: open ship menu when ship was destroyed.
+
+0.8.7.1 - Fixes
+
+* Fixed: projectile from enemy attackers when attacker was destroyed was failing when colliding.
+* Fixed: duplicated statistics if continue playing after destroying the anomaly.
+
+0.8.7 - Demo for Next Fest
+
+* Changed: removed neutrinium cores, now asteroid must be completed to activate travel.
+* Fixed: create new turret station after another was destroyed 
+
+0.8.6.5 - Fixes
+
+* Changed: anomalies block each other again but get almost no damage from other anomalies.
+* Changed: anomalies hp regen was reduced a bit and delayed if damaged.
+* Changed: both player and enemy miners have more mining power now.
+* Fixed: adjusted a bit better the anomaly attack offset for targets in close range.
+* Fixed: enemy attack unit can attack stations too.
+* Fixed: ship autoregen vfx was visible after destroyed.
+* Fixed: tremble device stops and do no damage if ship destroyed (reactivates on respawned)
+
+0.8.6.4 - Fixes
+
+* Changed: bomber ship now has some kind of recoil (pushback) when firing.
+* Changed: drones can't get damaged by friendly units now.
+* Changed: player ships get no damage from friendly units now (might change back in the future)
+* Changed: buildings don't get damaged by friendly units now. 
+* Fixed: bomber ship hits now close targets and bomb ignore friendlies for collisions.  
+* Fixed: artifacts doesn't load super fast with dark matter.
+* Fixed: enemy attack unit projectile offset to hit close targets.
+* Fixed: enemy attack unit behaviour loop edge case.
+* Fixed: bomber turret wrong projectile travel distance.
+
+0.8.6.3 - Fixes
+
+* Added: Russian (Русский) language support.
+* Added: Portuguese (Português) language support.
+* Added: difficulty settings to gameplay options
+* Changed: instructions now have animated sticks to try to communicate better the game plays with two sticks.
+* Fixed: sfx muted after deleting savegame
+
 0.8.6.2 - Fixes
 
 * Added: Japanese(日本語) language support.
