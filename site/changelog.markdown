@@ -5,7 +5,134 @@ title: Changelog
 
 Release notes history
 
-0.8.7.5 - Fixes
+0.9.5.1
+
+* Added: asteroids get a bit more resistant when traveling after beating the anomaly.
+* Fixed: anomaly notification when loading a savegame with anomalies active.
+* Fixed: bug when loading chill out savegame. 
+* Fixed: fixed miners getting inside the asteroid sometimes (I hope xD), they were disabling all collisions when dropping minerals to another unit, now they just disable collisions against minerals.
+* Changed: enemy anomaly attack unit now has more range and prioritizes closest target. 
+* Changed: enemy attack units can't get minerals now.
+* Changed: enemy miners can get dark matter now.
+
+0.9.4.1
+
+* Added: translations for new texts in the game.
+* Fixed: miners now go to asteroid without stopping in the middle to wander.
+* Fixed: miners now bring minerals to bases and the ship again.
+* Fixed: anomaly mode don't start next asteroid spawning anomalies on the first seconds.
+* Changed: ships have no base regeneration now by default, only the driller has, testing if it is useful to invest in regen earlier or not, right not it felt more optional.
+* Changed: miners now should drop minerals in a passive way if there is a structure or ship close to them, even while doing something else.
+* Changed: anomalies level up a bit slower now (3 mins instead of 2 mins)
+
+0.9.4 - Anomaly progress
+
+Anomaly grows slower and randomized between different things like spawn rate, anomaly level (damage+hp), etc, and kept when traveling to next asteroid. Activating the artifact makes the game spawn more anomalies but doesn't change their level to max anomaly damage+hp now, it keeps current anomaly level.  
+
+* Added: drones and stations count in hud.
+* Fixed: show stargate open indicator again.
+* Fixed: local coop can beat anomaly in stop anomaly, only first player can build artifact.
+* Fixed: bug with enemy miners when going to bring minerals to a killed anomaly when loading savegame.
+* Fixed: bomber turret continued attacking after exploding in pieces.
+* Fixed: repair drone is more visible when moving over the asteroid.
+* Fixed: stations had some invisible collider while they were building that was blocking the path.
+* Fixed: tabs navigation sound effect with mouse click.
+* Fixed: enemy and friendly miners should turn off the mining ray faster when not mining anything.
+* Changed: dark matter can't move over the terrain.
+* Changed: terrain explosives do a bit of damage to player again.
+* Changed: new sound effects for bomber ship attack.
+* Changed: chillout and custom modes are locked until stop anomaly is played at least once.
+
+0.9.3
+
+* Added: artifact tutorial first time it was assembled.
+* Added: travel enabled notification once the game ended or playing in chill out mode.
+* Added: gamepad move with dpad optional
+* Fixed: savegame can't be continued if ship destroyed/defeated.
+* Fixed: anomaly indicator don't overlap with hud.
+* Fixed: sometimes stations were visually in wrong positions after spawn.
+* Changed: technology cost is now incremental based on how many tech is installed.
+* Changed: stargate opens when can be interacted in ship selection and local coop.
+* Changed: stargate spanws close to the asteroid and has more vision range now.
+* Changed: asteroids have more terrain in default generation now.
+* Changed: changed to skip some frames instead of switching to slowmo, just to see how it feels.
+* Changed: rebalanced dark matter extraction from enemies and tech cost.
+* Changed: anomalies gets more hp per level but less hp regen.
+
+0.9.2.2
+
+* Fixed: camera centered on ship after artifact explosion
+* Fixed: ship upgrades after travel to next asteroid.
+* Fixed: show current minerals in continue savegame, not accumulated value.
+* Fixed: game can be saved and continued after beating the anomaly. 
+* Fixed: correct terrain percentage after load savegame.
+* Changed: now stargate is activated chill out after some play time in order to be able to jump to other asteroids. 
+* Changed: updated to Unity 6.6
+
+0.9.2.1 - Jump to asteroid
+
+* Added: added back a way to continue playing by jumping to next asteroid and keeping current ship progress (minerals and upgrades).
+* Added: new Scrap Station that generates scrap over time. 
+* Fixed: camera centers between ship and artifact and ship has more weight when centering.
+* Fixed: looking direction (small arrows) hidden while objects not active (bomber turret mainly)
+* Changed: restored keep progress (minerals) from ship selection when starting a new game.
+* Changed: custom mode menu only shows unlocked asteroid sizes now.
+
+0.9.2 - Space stations anywhere
+
+* Added: game is paused after continuing a game and need player action to resume.
+* Fixed: show main menu instead of quit and save in ship selection and coop.
+* Changed: now stations can be built directly by the ship anywhere.
+* Changed: now iron can be attracted from longer distances.
+* Removed: holders and build stations close to others.
+
+0.9.1.3
+
+* Added: more sound effects.
+* Fixed: drones stuck in edge of the world.
+* Fixed: anomaly in wrong visual state after loading savegame.
+* Changed: special notification sfx for anomaly spawn.
+* Changed: custom run now shows different modes to select from list.
+* Changed: changed a bit artifact to auto load from damage to anomalies.
+
+0.9.1.2
+
+* Fixed: asteroid savegame file name was appending file extension twice.
+* Fixed: drones invalid states after loading game.
+* Fixed: save anomalies internal progress
+* Changed: reduced a bit dark matter spots in the terrain and reduced how much they have.
+
+0.9.1.1
+
+* Added: show the game mode and asteroid size in continue game window.
+* Fixed: continue game was showing wrong unlocked tech count.
+
+0.9.1 - New Savegame System
+
+* Added: ui to show current artifact pieces (only in stop anomaly mode).
+* Changed: activated savegame again but now it should save the current asteroid progress (work in progress)
+* Changed: enabled driller ship, unlocked after a couple of runs.
+* Changed: bomber ship does a bit less damage now terrain node have less hp in general.
+
+0.9.0 - One Asteroid
+
+* Added: custom mode with sliders to customize the generation.
+* Added: chill mode without anomalies nor artifact (work in progress, need to define the objective there)
+* Added: dark matter spots in the asteroid.
+* Changed: artifact now attacks anomalies directly and charges with dark matter (wip)
+* Changed: asteroid data now shows asteroid code, size and seed (might show asteroid generation data in a future version)
+* Changed: artifact pieces are auto picked and once enough pieces they come out from ship and merge to create the artifact.
+* Changed: removed artifact assembly now it is not needed (might reuse the visuals for another space station).
+* Changed: blueprints now use old artifact pieces visuals since they looked better, more like a chip.
+* Changed: game starts by selecting the asteroid size not the game mode
+* Changed: asteroid sizes are locked until previous asteroid was completed (wip)
+* Changed: reduced building stations cost
+* Changed: removed add to wishlist from several places since this is the build for EA.
+* Changed: improved scout drone efficiency.
+* Fixed: anomaly notification with no anomaly.
+* Fixed: metagame unlocks notifications were blocking mouse interaction.
+
+0.8.7.5 - Fixes (THIS WAS THE LATEST DEMO VERSION)
 
 * Fixed: mouse interaction was being blocked in main menu
 
